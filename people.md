@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 ---
 
-We welcome and encourage all members of the MIT community as questions of AI ethics span engineering, humanities, business, and the sciences. We expect all members to conduct themselves in a respectful, inclusive, and considerate manner. 
+We welcome and encourage all members of the MIT community. Questions of AI ethics span engineering, humanities, business, and the sciences. We expect all members to conduct themselves in a respectful, inclusive, and considerate manner. 
 
 <br> <br>
 
