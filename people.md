@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 ---
 
-We welcome and encourage all members of the MIT community. Questions of AI ethics span engineering, humanities, business, and the sciences. We expect all reading group members to conduct themselves in a respectful, inclusive, and considerate manner. 
+We welcome and encourage all members of the MIT community. Questions of AI ethics span engineering, humanities, business, and the sciences, so the more perspectives and thoughtful participants, the better! We expect all reading group members to conduct themselves in a respectful, inclusive, and considerate manner. 
 
 <br> <br>
 
@@ -12,7 +12,7 @@ We welcome and encourage all members of the MIT community. Questions of AI ethic
 
 <p>
 <img src="/irene.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://irenechen.net">Irene Chen</a> is a PhD student at MIT in the <a href="http://clinicalml.org">Clinical Machine Learning Group</a>. Her research focuses on advancing machine learning in health care and fairness. Before MIT, she received her AB/SM from Harvard and worked at Dropbox for two years. In her free time, she enjoys long distance running and eating broccoli.
+<a href="http://irenechen.net">Irene Chen</a> is a PhD student at MIT in the <a href="http://clinicalml.org">Clinical Machine Learning Group</a>. Her research focuses on advancing machine learning in health care and fairness. Before MIT, she received her AB/SM from Harvard and worked at Dropbox for two years as a Data Scientist, Machine Learning Engineer, and Chief of Staff. In her free time, she enjoys long distance running and eating broccoli.
 </p>
 
 <br>
