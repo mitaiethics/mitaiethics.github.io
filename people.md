@@ -18,7 +18,17 @@ We welcome and encourage all members of the MIT community. Questions of AI ethic
 <br>
 <p>
 <img src="/leilani.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://people.csail.mit.edu/lgilpin/">Leilani H. Gilpin</a> is a PhD Student in EECS and CSAIL working under the supervision of Professor Gerald Jay Sussman. Her research is in the area of Artificial Intelligence, where she is working to help autonomous vehicles (and other autonomous machines) to explain themselves. Before returning to academia, she worked at Palo Alto Research Center, received a M.S. in Computational and Mathematical Engineering at Stanford University, and a B.S. in Computer Science with Highest Honors, a B.S. in Mathematics with Honors, and a Music Minor at UC San Diego. 
+<a href="http://people.csail.mit.edu/lgilpin/">Leilani H. Gilpin</a> is a PhD student in Electrical Engineering and
+Computer Science at MIT.  Her area of focus is explanatory artificial
+intelligence, which enables autonomous vehicles, and other autonomous
+machines to explain themselves. She is currently working on a Toyota
+Research Initiative Project, “The Car Can Explain!” in the Computer
+Science and Artificial Intelligence Lab under the supervision of
+Professor Gerald Jay Sussman.  Before returning to academia, Leilani
+worked at Palo Alto Research Center (PARC) and earned a M.S. from Stanford University and a  B.S. in Mathematics (with honors),
+B.S. in Computer Science (with highest honors), and a music minor from
+UC San Diego in 2011. 
+
 </p>
 <br>
 <p>
