@@ -18,6 +18,7 @@
   {% endif %}
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}">
   <link rel="canonical" href="{{ canonical }}">
   {% assign feed_path = "/feed.xml" %}
   {% if site.feed and site.feed.path %}
@@ -69,5 +70,4 @@
   {% include fonts.html %}
   {% include google_analytics.html %}
 
-   <script src="/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 </head>
