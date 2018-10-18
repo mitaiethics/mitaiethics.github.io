@@ -36,7 +36,7 @@ twitter_username:
 twitter_image:
 facebook_app_id:
 facebook_image:
-google_analytics:
+google_analytics: UA-72495497-6
 comments: false
 
 # Plugins
@@ -51,8 +51,9 @@ excerpt_separator: "<!-- more -->"
 
 # Outputting
 permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
-paginate: 5
+# paginate_path: /meetings/:num/
+# paginate: 5
+future: true
 
 # Markdown settings
 kramdown:
