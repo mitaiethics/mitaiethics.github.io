@@ -45,13 +45,16 @@
   {% endif %}
 
   {% if page.image %}
-  <meta name="twitter:card"  content="summary_large_image">
+  <meta name="twitter:card"  content="summary">
   <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  <meta name="twitter:description" content="{{ description | truncate: 200 }}">
   {% else %}
   <meta name="twitter:card"  content="summary">
   <meta name="twitter:image" content="{{ site.title_image }}">
-  {% endif %}
   <meta name="twitter:description" content="{{ description | truncate: 200 }}">
+  {% endif %}
+
+  
 <!-- 
   <meta name="twitter:card" content="{{ page.twitter_card.type | default: "summary" }}">
   {% if site.twitter_username %}<meta name="twitter:site" content="{{ site.twitter_username }}">{% endif %}
