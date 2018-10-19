@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: MIT AI Ethics Reading Group
 author: Irene Chen
-description: Discuss AI and ethics twice a month
+description: Discuss AI and ethics twice a month with the MIT community. Notes and readings posted online.
+title_img: "https://mitaiethics.github.io/robot_color.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mitaiethics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en

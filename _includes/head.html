@@ -40,7 +40,7 @@
     {% elsif site.facebook_image %}
       <meta property="og:image" content="{{ site.facebook_image }}">
     {% else %}
-      <meta property="og:image" content="/robot_color.png">
+      <meta property="og:image" content="{{ site.title_img }}">
     {% endif %}
   {% endif %}
   <meta name="twitter:card" content="{{ page.twitter_card.type | default: "summary" }}">
@@ -68,7 +68,7 @@
   {% elsif site.twitter_image %}
     <meta name="twitter:image:src" content="{{ site.twitter_image }}">
   {% else %}
-    <meta name="twitter:image:src" content="/robot_color.png">
+    <meta name="twitter:image:src" content="{{ site.title_img }}">
   {% endif %}
 
   {% include fonts.html %}
