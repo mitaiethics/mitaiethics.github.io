@@ -43,6 +43,16 @@
       <meta property="og:image" content="{{ site.title_img }}">
     {% endif %}
   {% endif %}
+
+  {% if page.image %}
+  <meta name="twitter:card"  content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  {% else %}
+  <meta name="twitter:card"  content="summary">
+  <meta name="twitter:image" content="{{ site.title_image }}">
+  {% endif %}
+  <meta name="twitter:description" content="{{ description | truncate: 200 }}">
+<!-- 
   <meta name="twitter:card" content="{{ page.twitter_card.type | default: "summary" }}">
   {% if site.twitter_username %}<meta name="twitter:site" content="{{ site.twitter_username }}">{% endif %}
   <meta name="twitter:title" content="{{ title | truncate: 70 }}">
@@ -69,7 +79,7 @@
     <meta name="twitter:image:src" content="{{ site.twitter_image }}">
   {% else %}
     <meta name="twitter:image:src" content="{{ site.title_img }}">
-  {% endif %}
+  {% endif %} -->
 
   {% include fonts.html %}
   {% include google_analytics.html %}
