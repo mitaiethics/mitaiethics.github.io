@@ -33,5 +33,5 @@ UC San Diego in 2011.
 <br>
 <p>
 <img src="/harini.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://harinisuresh.com/">Harini Suresh</a> graduated from MIT with Bachelor's and Master's degrees in Computer Science, and she's sticking around for her PhD. She's particularly interested in alogrithmic fairness -- how to make machine learning algorithms more understandable and easier to use responsibly. Her past research focused on predicting intervention onset and weaning with ICU timeseries data. She's spent a couple summers enjoying the West Coast as a data science intern at Jawbone and Zephyr Health. She also love traveling, hiking, farmer's markets, cooking, taking photographs, and reading.
+<a href="http://harinisuresh.com/">Harini Suresh</a> is a PhD student in EECS at MIT. She's particularly interested in the complications and societal implications that arise when machine learning is used with imperfect real-world data. Harini did her undergrad and M.Eng. at MIT as well, and worked on developing interpretable methods for predicting onset and weaning of invasive interventions for patients in Intensive Care Units. She also likes photography and making/eating bread.
 </p>
