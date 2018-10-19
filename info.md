@@ -2,7 +2,6 @@
 layout: page
 title: "Why AI Ethics?"
 permalink: /
-image: "robot_color.png"
 ---
 
 As artificial intelligence and autonomous machines become [increasingly important](http://news.mit.edu/2018/mit-reshapes-itself-stephen-schwarzman-college-of-computing-1015), it is crucial to examine the ethics, morals, and explainability of these systems.  To gain better understanding, we are starting an AI and ethics reading group. We will explore both foundational and recent literature on AI and ethics.
