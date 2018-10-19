@@ -65,6 +65,8 @@
     {% endif %}
   {% elsif site.twitter_image %}
     <meta name="twitter:image:src" content="{{ site.twitter_image }}">
+  {% else %}
+    <meta name="twitter:image:src" content="/robot_color.png">
   {% endif %}
 
   {% include fonts.html %}
