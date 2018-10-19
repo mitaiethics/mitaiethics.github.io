@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.8.3">Jekyll</generator>
   
   
-  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" />
-  <updated>2018-10-18T23:05:31+00:00</updated>
-  <id>http://localhost:4000//</id>
+  <link href="https://mitaiethics.github.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://mitaiethics.github.io/" rel="alternate" type="text/html" hreflang="en" />
+  <updated>2018-10-19T04:26:37+00:00</updated>
+  <id>https://mitaiethics.github.io//</id>
 
   
     <title type="html">MIT AI Ethics Reading Group</title>
@@ -31,12 +31,12 @@
       <title type="html">Using AI to predict sexual orientation from faces</title>
       
       
-      <link href="http://localhost:4000/2018/10/27/predict-sexuality/" rel="alternate" type="text/html" title="Using AI to predict sexual orientation from faces" />
+      <link href="https://mitaiethics.github.io/2018/10/27/predict-sexuality/" rel="alternate" type="text/html" title="Using AI to predict sexual orientation from faces" />
       
       <published>2018-10-27T00:00:00+00:00</published>
       <updated>2018-10-27T00:00:00+00:00</updated>
-      <id>http://localhost:4000/2018/10/27/predict-sexuality</id>
-      <content type="html" xml:base="http://localhost:4000/2018/10/27/predict-sexuality/">&lt;p&gt;Our upcoming meeting will be Wed October 27. We will post notes from the meeting here.&lt;/p&gt;</content>
+      <id>https://mitaiethics.github.io/2018/10/27/predict-sexuality</id>
+      <content type="html" xml:base="https://mitaiethics.github.io/2018/10/27/predict-sexuality/">&lt;p&gt;Our upcoming meeting will be Wed October 27. We will post notes from the meeting here.&lt;/p&gt;</content>
 
       
       
