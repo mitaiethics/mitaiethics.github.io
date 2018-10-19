@@ -24,6 +24,6 @@ The next meeting will be **Wednesday Oct 27, 2018** 6:30-8pm in 32-G449. We will
 
 ## Looking ahead
 
-Our planned meeting dates for this semester are October 24th, November 7th, November 28th and December 12th.
+Our planned meeting dates for this semester are October 27th, November 7th, November 28th and December 12th.
 
 If you have articles or papers you would like to discuss or are interested in leading a future reading group meeting, please contact ai-ethics-admin [at] mit [dot] edu
