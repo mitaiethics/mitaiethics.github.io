@@ -46,17 +46,19 @@
 
   {% if page.image %}
   <meta name="twitter:card"  content="summary">
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+  <meta name="twitter:title" content="{{ title | truncate: 70 }}">
   <meta name="twitter:description" content="{{ description | truncate: 200 }}">
   {% else %}
   <meta name="twitter:card"  content="summary">
-  <meta name="twitter:image" content="{{ site.title_image }}">
+  <meta name="twitter:image:src" content="{{ site.title_image }}">
+  <meta name="twitter:title" content="{{ title | truncate: 70 }}">
   <meta name="twitter:description" content="{{ description | truncate: 200 }}">
   {% endif %}
 
   
-<!-- 
-  <meta name="twitter:card" content="{{ page.twitter_card.type | default: "summary" }}">
+
+  <!-- <meta name="twitter:card" content="{{ page.twitter_card.type | default: "summary" }}">
   {% if site.twitter_username %}<meta name="twitter:site" content="{{ site.twitter_username }}">{% endif %}
   <meta name="twitter:title" content="{{ title | truncate: 70 }}">
   <meta name="twitter:description" content="{{ description | truncate: 200 }}">
@@ -65,6 +67,7 @@
   {% elsif site.twitter_username %}
     <meta name="twitter:creator" content="{{ site.twitter_username }}">
   {% endif %}
+  
   {% if page.twitter_card.image %}
     {% if page.twitter_card.type == 'gallery' %}
       <meta name="twitter:image0" content="{{ page.twitter_card.image }}">
