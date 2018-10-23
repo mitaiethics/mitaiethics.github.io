@@ -18,7 +18,7 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 ## Next meeting
 
-The next meeting will be **Wednesday Oct 24, 2018** 6:30-8pm in 32-G449. We will provide pizza. We will be discussing two recent articles:
+The next meeting will be **Wednesday Oct 24, 2018** 6:30-8pm in 32-D463. We will provide pizza. We will be discussing two recent articles:
  * [Deep Neural Networks Are More Accurate Than Humans at Detecting Sexual Orientation From Facial Images](https://www.gsb.stanford.edu/faculty-research/publications/deep-neural-networks-are-more-accurate-humans-detecting-sexual)
  * [Do algorithms reveal sexual orientation or just expose our stereotypes?](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477)
 
