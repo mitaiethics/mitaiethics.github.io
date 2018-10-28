@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using AI to predict sexual orientation from faces"
-image: "/assets/robot_color.png"
+image: "/assets/meeting1.jpg"
 author: "Irene Chen"
 ---
 
