@@ -36,7 +36,7 @@ With a large crowd of participants and many questions to debate, we split into s
 
 In our first iteration of the reading group, we learned a few lessons to keep in mind for following meetings.
  1. **Keep discussions specific.** Discussing the pros and cons of cash bail and risk assessment scores is more interesting when discussing one state's pros and cons when considering which law to pass. Debating whether or not to use biased algorithms feels more nebulous and can end with grand statements with fewer opportunities for others to engage.
- 2. **Establish norms for debate.** Inevitably discussions can get heated, especially while discussing charged topics. It's important to set ground rules early to maintain an inclusive and considerate environment. All perspectives are welcome, all ideas can be debated, and all people must be respected.
+ 2. **Establish norms for debate.** Inevitably discussions can get heated, especially while discussing charged topics. It's important to set ground rules early to maintain an inclusive, respectful, and considerate environment. 
  3. **Beginners and experts welcome.** At first, I was apprehensive that the three organizers were computer science PhD students without any ethics backgrounds. Luckily, the MIT community has a large crowd of perspectives to lend, and both beginners and experts had plenty to share.
 
 We also polled informally for future topics to wrestle together.
