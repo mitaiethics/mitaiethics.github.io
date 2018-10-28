@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: "Prior Meetings"
+title: "Meetings"
 permalink: /meetings/
 ---
