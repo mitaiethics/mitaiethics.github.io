@@ -31,6 +31,8 @@ With a large crowd of participants and many questions to debate, we split into s
  1. It's hard to find a single positive use case for the first paper. The model is also limited by the use of dating profile pictures as training data, which makes generalization to other settings like Facebook photos challenging.
  2. One idea of how the authors of the first paper could have presented the ideas better is through separating ideas into a machine learning paper and a science paper in order to fully explore the implications and potential explanations for the findings.
  3. At best the algorithm to predict sexual orientation is finding spurious correlations in the data, which one participant described as evil. 
+ 4. Some questions the authors bring up have typically been studied from a broader, humanistic perspective; that broader perspective seems to be neglected here.  Some problems (perhaps especially those relating to the intimate experiences of people) may be ill-suited to a rigid scientific/computer science methodology.  
+ 5. More generally, the incentive structure in computer science academia involves lots of machine learning conferences each year, expectations to submit and publish at multiple of these, and standard ways to prove success (e.g., increasing accuracy on a benchmark).  This may discourage rigorous analysis, transparency, and thoughtful consideration of ethics.
 
 ## Looking forward
 
