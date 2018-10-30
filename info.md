@@ -18,7 +18,12 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 ## Next meeting
 
-The next meeting will be **Wednesday Nov 7, 2018**. Time, location, and readings are TBD.
+The next meeting will be **Wednesday Nov 7, 2018** from 6:30pm - 8:00pm. Our location is TBD but likely in building 32.
+
+We will be discussing two readings:
+ 1. [Curriculum material from SCU](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToDataEthics.pdf)
+ 2. [Harvard report on CS education](https://arxiv.org/pdf/1808.05686.pdf)
+
 
 ## Looking ahead
 
