@@ -5,7 +5,7 @@ image: "/assets/meeting1.jpg"
 author: "Irene Chen"
 ---
 
-It is undeniable that artificial intelligence (AI) has become increasingly more powerful and influential in our society. On the heels of [MIT's recent investment in a new school for computing](http://news.mit.edu/2018/mit-reshapes-itself-stephen-schwarzman-college-of-computing-1015), we created the AI Ethics Reading Group to build a university-wide community to discuss foundation and recent literature at the intersection of AI and society.
+It is undeniable that artificial intelligence (AI) has become increasingly more powerful and influential in our society. On the heels of [MIT's recent investment in a new college for computing](http://news.mit.edu/2018/mit-reshapes-itself-stephen-schwarzman-college-of-computing-1015), we created the AI Ethics Reading Group to build a university-wide community to discuss foundation and recent literature at the intersection of AI and society.
 
 With over 150 participants on the newly formed email list, we held our first meeting on Wed Oct 24. While nothing can replicate the energetic interactions of an actual reading group meeting, we hope that we are able to capture some of the discussion points here. Also check out [our slides from the meeting](https://docs.google.com/presentation/d/1kQ02D0c2SNCOWj3nErSUnSrjkcjB2aWBE2Oh4f7WPZU/edit?usp=sharing).
 
