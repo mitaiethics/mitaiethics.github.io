@@ -7,6 +7,8 @@ author: "Irene Chen"
 
 It is undeniable that artificial intelligence (AI) has become increasingly more powerful and influential in our society. On the heels of [MIT's recent investment in a new college for computing](http://news.mit.edu/2018/mit-reshapes-itself-stephen-schwarzman-college-of-computing-1015), we created the AI Ethics Reading Group to build a university-wide community to discuss foundation and recent literature at the intersection of AI and society.
 
+Our group will meet every other week and discuss readings on a different topic. Participants from all over the MIT community are welcome, and we hope that a wide range of people will lead discussions based on different areas of interest and expertise. For more information on the meeting times, see [our main site](https://mitaiethics.github.io/).
+
 With over 150 participants on the newly formed email list, we held our first meeting on Wed Oct 24. While nothing can replicate the energetic interactions of an actual reading group meeting, we hope that we are able to capture some of the discussion points here. Also check out [our slides from the meeting](https://docs.google.com/presentation/d/1kQ02D0c2SNCOWj3nErSUnSrjkcjB2aWBE2Oh4f7WPZU/edit?usp=sharing).
 
 {% include image.html url="/assets/meeting1.jpg" description="Eager minds in active discussion about the ethics of predicting sexual orientation from faces." %}
