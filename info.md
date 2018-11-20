@@ -18,18 +18,20 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 ## Next meeting
 
-The next meeting will be **Wednesday Nov 7, 2018** from 6:30pm - 8:00pm. Our location is TBD but likely in building 32.
+The next meeting will be **Wednesday Nov 28, 2018** from 6:30pm - 8:00pm in [room 32-144](https://whereis.mit.edu/?go=32).
 
-We will be discussing two readings:
- 1. [Curriculum material from SCU](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToDataEthics.pdf)
- 2. [Harvard report on CS education](https://arxiv.org/pdf/1808.05686.pdf)
+We will be discussing AI ethics as it relates to anonymity and privacy. Our readings are:
+ 1. [Even Anonymous Coders Leave Fingerprints](https://www.wired.com/story/machine-learning-identify-anonymous-code/) which references the [original paper](https://arxiv.org/pdf/1512.08546.pdf) that may be interesting background.
+ 2. [Facebook/Cambridge Analytica: Privacy lessons and a way forward](https://internetpolicy.mit.edu/blog-2018-fb-cambridgeanalytica/)
+
+Thank you to Jack who volunteered to help lead this topic!
 
 
 ## Looking ahead
 
 Our planned meeting dates for this semester are:
  - ~~October 24th~~
- - November 7th
+ - ~~November 7th~~
  - November 28th
  - December 12th.
 
