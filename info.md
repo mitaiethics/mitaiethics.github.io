@@ -18,13 +18,15 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 ## Next meeting
 
-The next meeting will be **Wednesday Nov 28, 2018** from 6:30pm - 8:00pm in [room 32-144](https://whereis.mit.edu/?go=32).
+The next meeting will be **Wednesday Dec 12, 2018** from 6:30pm - 8:00pm in [room 32-144](https://whereis.mit.edu/?go=32).
 
-We will be discussing AI ethics as it relates to anonymity and privacy. Our readings are:
- 1. [Even Anonymous Coders Leave Fingerprints](https://www.wired.com/story/machine-learning-identify-anonymous-code/) which references the [original paper](https://arxiv.org/pdf/1512.08546.pdf) that may be interesting background.
- 2. [Facebook/Cambridge Analytica: Privacy lessons and a way forward](https://internetpolicy.mit.edu/blog-2018-fb-cambridgeanalytica/)
-
-Thank you to Jack who volunteered to help lead this topic!
+We will be discussing how organizations create automated systems, and how they are or could be held accountable. Our readings are:
+ 1.  [AI Now 2018 Report](https://ainowinstitute.org/AI_Now_2018_Report.pdf), section 2.3 (Why Ethics is Not Enough) and section 3.7 (Research and Organizing: An Emergent Coalition) 
+ 2. [Corporate Accountability](https://robotfutures.wordpress.com/2018/06/10/corporate-accountability/) by Lucy Suchman
+ 3. [Google’s AI Principles](https://www.blog.google/technology/ai/ai-principles/)
+ 4. Optional
+   - [Ethics as Escape from Regulation](https://www.privacylab.at/wp-content/uploads/2018/07/Ben_Wagner_Ethics-as-an-Escape-from-Regulation_2018_BW9.pdf) by Ben Wagner 
+   - [Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning](http://dmgreene.net/wp-content/uploads/2018/09/Greene-Hoffman-Stark-Better-Nicer-Clearer-Fairer-HICSS-Final-Submission.pdf) by Greene et. al.
 
 
 ## Looking ahead
@@ -32,7 +34,7 @@ Thank you to Jack who volunteered to help lead this topic!
 Our planned meeting dates for this semester are:
  - ~~October 24th~~
  - ~~November 7th~~
- - November 28th
+ - ~~November 28th~~
  - December 12th.
 
 If you have articles or papers you would like to discuss or are interested in leading a future reading group meeting, please contact ai-ethics-admin [at] mit [dot] edu
