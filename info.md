@@ -16,9 +16,9 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 
 
-## Next meeting
+## Most recent meeting
 
-The next meeting will be **Wednesday Dec 12, 2018** from 6:30pm - 8:00pm in [room 32-144](https://whereis.mit.edu/?go=32).
+The most recent meeting was **Wednesday Dec 12, 2018** from 6:30pm - 8:00pm in [room 32-144](https://whereis.mit.edu/?go=32).
 
 We will be discussing how organizations create automated systems, and how they are or could be held accountable. Our readings are:
  1.  [AI Now 2018 Report](https://ainowinstitute.org/AI_Now_2018_Report.pdf), section 2.3 (Why Ethics is Not Enough) and section 3.7 (Research and Organizing: An Emergent Coalition) 
@@ -31,10 +31,12 @@ We will be discussing how organizations create automated systems, and how they a
 
 ## Looking ahead
 
-Our planned meeting dates for this semester are:
+We are in the process of determining our meeting dates for Spring 2019. Please check back for details or join [our mailing list](https://groups.mit.edu/webmoira/list/ai-ethics).
+
+Our planned meeting dates for this semester were:
  - ~~October 24th~~
  - ~~November 7th~~
  - ~~November 28th~~
- - December 12th.
+ - ~~December 12th~~
 
 If you have articles or papers you would like to discuss or are interested in leading a future reading group meeting, please contact ai-ethics-admin [at] mit [dot] edu
