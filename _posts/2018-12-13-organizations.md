@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Organizations and Accountability"
+author: "Harini Suresh"
+---
+
 Our last meeting of the semester focused on organizations -- what it means for an organization to be ethical, and how they are or should be held accountable (readings and all discussion questions are at the end of this post). We were lucky to have attendees from around MIT, including CS, political science, MechE, Comparative Media Studies, and the MIT Libraries. The questions we set out to discuss fell into three main buckets: 
 1. Organizations taking “ethical stances”: effectiveness and ways forward
 2. Who shapes ethical design practices: balancing experts and public-at-large
