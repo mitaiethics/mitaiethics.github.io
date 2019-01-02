@@ -26,22 +26,22 @@ Readings:
  2. [Corporate Accountability](https://robotfutures.wordpress.com/2018/06/10/corporate-accountability/) by Lucy Suchman
  3. [Google’s AI Principles](https://www.blog.google/technology/ai/ai-principles/)
  4. Optional
-   - [Ethics as Escape from Regulation](https://www.privacylab.at/wp-content/uploads/2018/07/Ben_Wagner_Ethics-as-an-Escape-from-Regulation_2018_BW9.pdf) by Ben Wagner 
-   - [Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning](http://dmgreene.net/wp-content/uploads/2018/09/Greene-Hoffman-Stark-Better-Nicer-Clearer-Fairer-HICSS-Final-Submission.pdf) by Greene et. al.
+       - [Ethics as Escape from Regulation](https://www.privacylab.at/wp-content/uploads/2018/07/Ben_Wagner_Ethics-as-an-Escape-from-Regulation_2018_BW9.pdf) by Ben Wagner 
+       - [Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning](http://dmgreene.net/wp-content/uploads/2018/09/Greene-Hoffman-Stark-Better-Nicer-Clearer-Fairer-HICSS-Final-Submission.pdf) by Greene et. al.
 
 Discussion Questions:
 1. What are possible incentives for companies to act “ethically”? 
 2. Google’s first AI Principle is “Be socially beneficial.”  How should Google evaluate whether a technology is socially beneficial?  
-  a. What should the requirements be before any deployment?  
-  b. What about after deployment -- should they be continually measuring and evaluating a technology's effect?  Is it ethical for affected people to be a testbed for technologies in this way?  
-  c. What is an appropriate measure of “social benefit”?
+      a. What should the requirements be before any deployment?  
+      b. What about after deployment -- should they be continually measuring and evaluating a technology's effect?  Is it ethical for affected people to be a testbed for technologies in this way?  
+      c. What is an appropriate measure of “social benefit”?
 3. For many technologies, the benefit may be unevenly distributed across society.  How should a company begin to weigh the pros and cons when an innovation is good for some people and harmful to others? 
 4. Is it useful for a company to publish ethical principles? 
 5. What structural changes could help make such principles more useful?  E.g., should there be a board of people in charge of making sure that everything that’s developed meets these principles?  Who should sit on such a board and what would their incentives be? 
 6. What might be the implications of powerful companies taking an overt moral or political position?
 7. Greene et. al. state “Despite assuming a universal community of ethical concern, these vision statements are not mass mobilization documents. Rather, they frame ethical design as a project of expert oversight, wherein primarily technical, and secondarily legal, experts come together to articulate concerns and implement primarily technical, and secondarily legal solutions. They draw a narrow circle of who can or should adjudicate ethical concerns around AI/ML.”  
-  a. Should people other than AI or ethics experts be involved in ethical design? In what manner, and to what degree? 
-  b. Is a framework for ethical design that is driven by the (non-expert) public at large 1) feasible and 2) desirable?
+      a. Should people other than AI or ethics experts be involved in ethical design? In what manner, and to what degree? 
+      b. Is a framework for ethical design that is driven by the (non-expert) public at large 1) feasible and 2) desirable?
 8. Is the ability of tech workers to organize for change (e.g., Google engineers protest against Project Maven) due to their relative position of power, being skilled workers in a high-demand field? Do you think this bargaining power will decrease as the supply of skilled engineers increases?
 9. Perhaps one reason these protests have mostly worked is because they’re able to gain widespread attention in large high-profile companies like Google which are then under public pressure to change course.  
-  a. Do you think this is the case? Would organized dissent be effective in smaller companies? Would management just fire the handful of people who complain, and is there a way to avoid that?
+      a. Do you think this is the case? Would organized dissent be effective in smaller companies? Would management just fire the handful of people who complain, and is there a way to avoid that?
