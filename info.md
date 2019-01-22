@@ -20,7 +20,7 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 The most recent meeting was **Wednesday Dec 12, 2018** from 6:30pm - 8:00pm in [room 32-144](https://whereis.mit.edu/?go=32).
 
-We will be discussing how organizations create automated systems, and how they are or could be held accountable. Our readings are:
+We discussed how organizations create automated systems, and how they are or could be held accountable. Our readings were:
  1.  [AI Now 2018 Report](https://ainowinstitute.org/AI_Now_2018_Report.pdf), section 2.3 (Why Ethics is Not Enough) and section 3.7 (Research and Organizing: An Emergent Coalition) 
  2. [Corporate Accountability](https://robotfutures.wordpress.com/2018/06/10/corporate-accountability/) by Lucy Suchman
  3. [Google’s AI Principles](https://www.blog.google/technology/ai/ai-principles/)
