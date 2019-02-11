@@ -29,14 +29,19 @@ We discussed how organizations create automated systems, and how they are or cou
    - [Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning](http://dmgreene.net/wp-content/uploads/2018/09/Greene-Hoffman-Stark-Better-Nicer-Clearer-Fairer-HICSS-Final-Submission.pdf) by Greene et. al.
 
 
-## Looking ahead
+## Spring 2019
 
-We are in the process of determining our meeting dates for Spring 2019. Please check back for details or join [our mailing list](https://groups.mit.edu/webmoira/list/ai-ethics).
+Our regular meeting time for Spring 2019 will be Thursdays at 5pm, beginning Thurs Feb 21.
 
-Our planned meeting dates for this semester were:
- - ~~October 24th~~
- - ~~November 7th~~
- - ~~November 28th~~
- - ~~December 12th~~
+For more updated information, join [our mailing list](https://groups.mit.edu/webmoira/list/ai-ethics).
+
+Our planned meeting dates for this semester are:
+ - Thurs Feb 21
+ - Thurs Mar 07
+ - Thurs Mar 21
+ - Thurs Apr 04
+ - Thurs Apr 18
+ - Thurs May 02
+ - Thurs May 16
 
 If you have articles or papers you would like to discuss or are interested in leading a future reading group meeting, please contact ai-ethics-admin [at] mit [dot] edu
