@@ -31,7 +31,7 @@ We discussed how organizations create automated systems, and how they are or cou
 
 ## Spring 2019
 
-Our regular meeting time for Spring 2019 will be Thursdays at 5pm, beginning Thurs Feb 21.
+Our regular meeting time for Spring 2019 will be Thursdays 4pm-6pm, beginning Thurs Feb 21.
 
 For more updated information, join [our mailing list](https://groups.mit.edu/webmoira/list/ai-ethics).
 
