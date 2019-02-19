@@ -16,18 +16,20 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 
 
-## Most recent meeting
+## Next meeting
 
-The most recent meeting was **Wednesday Dec 12, 2018** from 6:30pm - 8:00pm in [room 32-144](https://whereis.mit.edu/?go=32).
+Our next meeting is **Thurs Feb 21, 2019** from 4pm-6pm in [room 32-144](https://whereis.mit.edu/?go=32).
 
-We discussed how organizations create automated systems, and how they are or could be held accountable. Our readings were:
- 1.  [AI Now 2018 Report](https://ainowinstitute.org/AI_Now_2018_Report.pdf), section 2.3 (Why Ethics is Not Enough) and section 3.7 (Research and Organizing: An Emergent Coalition) 
- 2. [Corporate Accountability](https://robotfutures.wordpress.com/2018/06/10/corporate-accountability/) by Lucy Suchman
- 3. [Google’s AI Principles](https://www.blog.google/technology/ai/ai-principles/)
- 4. Optional
-   - [Ethics as Escape from Regulation](https://www.privacylab.at/wp-content/uploads/2018/07/Ben_Wagner_Ethics-as-an-Escape-from-Regulation_2018_BW9.pdf) by Ben Wagner 
-   - [Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning](http://dmgreene.net/wp-content/uploads/2018/09/Greene-Hoffman-Stark-Better-Nicer-Clearer-Fairer-HICSS-Final-Submission.pdf) by Greene et. al.
+Edward Burnell and Sofia Leung will be discussing how Design Justice movement and Critical Race Theory interact with AI research and development.
 
+Required reading:
+ - [Design Justice, A.I., and Escape from the Matrix of Domination](https://jods.mitpress.mit.edu/pub/costanza-chock). July 2018. Sasha Costanza-Chock.
+
+Optional additional reading:
+ - [Racial categories in machine learning](https://arxiv.org/pdf/1811.11668.pdf). Nov 2018. Sebastian Benthall and Bruce D. Haynes.
+ - [Amazon’s Symptoms of FML — Failed Machine Learning — Echo the Gender Pay Gap and Policing Concerns](https://medium.com/mit-media-lab/amazons-symptoms-of-fml-failed-machine-learning-echo-the-gender-pay-gap-and-policing-concerns-3de9553d9bd1). Oct 2018. Joy Buolamwini.
+ - [Let’s Talk About Race: Identity, Chatbots, and AI.](http://openaccess.city.ac.uk/19124/1/Lets%20Talk%20About%20Race%20Accepted%20version.pdf) April 2018. Ari Schlesinger, Kenton P. O’Hara, and Alex S. Taylor.
+ - [A Harm-Reduction Framework for Algorithmic Fairness](https://ieeexplore-ieee-org.libproxy.mit.edu/stamp/stamp.jsp?arnumber=8395114). May 2018. Micah Altman, Alexandra Wood, and Effy Vayena.
 
 ## Spring 2019
 
