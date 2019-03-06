@@ -18,18 +18,12 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 ## Next meeting
 
-Our next meeting is **Thurs Feb 21, 2019** from 4pm-6pm in [room 32-144](https://whereis.mit.edu/?go=32).
+Our next meeting is **Thurs March 7, 2019** from 5pm-7pm in [room 32-D463](https://whereis.mit.edu/?go=32).
 
-Edward Burnell and Sofia Leung will be discussing how Design Justice movement and Critical Race Theory interact with AI research and development.
-
-Required reading:
- - [Design Justice, A.I., and Escape from the Matrix of Domination](https://jods.mitpress.mit.edu/pub/costanza-chock). July 2018. Sasha Costanza-Chock.
-
-Optional additional reading:
- - [Racial categories in machine learning](https://arxiv.org/pdf/1811.11668.pdf). Nov 2018. Sebastian Benthall and Bruce D. Haynes.
- - [Amazon’s Symptoms of FML — Failed Machine Learning — Echo the Gender Pay Gap and Policing Concerns](https://medium.com/mit-media-lab/amazons-symptoms-of-fml-failed-machine-learning-echo-the-gender-pay-gap-and-policing-concerns-3de9553d9bd1). Oct 2018. Joy Buolamwini.
- - [Let’s Talk About Race: Identity, Chatbots, and AI.](http://openaccess.city.ac.uk/19124/1/Lets%20Talk%20About%20Race%20Accepted%20version.pdf) April 2018. Ari Schlesinger, Kenton P. O’Hara, and Alex S. Taylor.
- - [A Harm-Reduction Framework for Algorithmic Fairness](https://ieeexplore-ieee-org.libproxy.mit.edu/stamp/stamp.jsp?arnumber=8395114). May 2018. Micah Altman, Alexandra Wood, and Effy Vayena.
+We will be discussing the ethics of reproducible research.
+1.  [Nature](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970) - 1,500 scientists lift the lid on reproducibility 
+2.  [A Practical Taxonomy of Reproducibility for Machine Learning Research](http://www.rctatman.com/files/2018-7-14-MLReproducability.pdf)
+3.  Bonus - listen to this [podcast](https://twimlai.com/twiml-talk-121-reproducibility-philosophy-data-clare-gollnick/) on reproducibility and data responsibility
 
 ## Spring 2019
 
@@ -38,7 +32,7 @@ Our regular meeting time for Spring 2019 will be Thursdays 4pm-6pm, beginning Th
 For more updated information, join [our mailing list](https://groups.mit.edu/webmoira/list/ai-ethics).
 
 Our planned meeting dates for this semester are:
- - Thurs Feb 21
+ - ~~Thurs Feb 21~~
  - Thurs Mar 07
  - Thurs Mar 21
  - Thurs Apr 04
