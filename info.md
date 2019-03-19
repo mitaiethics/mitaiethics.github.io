@@ -18,12 +18,18 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 ## Next meeting
 
-Our next meeting is **Thurs March 7, 2019** from 5pm-7pm in [room 32-D463](https://whereis.mit.edu/?go=32).
+Our next meeting is **Thurs March 21, 2019** from 5pm-7pm in [room 32-D463](https://whereis.mit.edu/?go=32).
 
-We will be discussing the ethics of reproducible research.
-1.  [Nature](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970) - 1,500 scientists lift the lid on reproducibility 
-2.  [A Practical Taxonomy of Reproducibility for Machine Learning Research](http://www.rctatman.com/files/2018-7-14-MLReproducability.pdf)
-3.  Bonus - listen to this [podcast](https://twimlai.com/twiml-talk-121-reproducibility-philosophy-data-clare-gollnick/) on reproducibility and data responsibility
+We will be hosting the new College of Computing Working Group on the Social Implications and Responsibilities of Computing. This is our chance to weigh in on the new College of Computing.
+
+Please join us to think about what it would mean for MIT’s new college to integrate rigorous research on the social implications of computing-- exactly the issues that have been animating this reading group.
+
+Instead of a shared reading, please come to the meeting with an example of exciting research (a paper, blog post, newspaper article) that analyzes social implications and ethics of computing. Here are some examples of research you could bring:
+- https://repository.law.umich.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1200&context=law_econ_current
+- http://www.samirpassi.com/files/documents/cscw136-passi.pdf
+- https://docs.google.com/document/d/1bnQKzFAzCTcBcNvW5tsPuSDje8WWWY-SSF4wQm6TLvQ/edit
+- http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf
+
 
 ## Spring 2019
 
@@ -33,7 +39,7 @@ For more updated information, join [our mailing list](https://groups.mit.edu/web
 
 Our planned meeting dates for this semester are:
  - ~~Thurs Feb 21~~
- - Thurs Mar 07
+ - ~~Thurs Mar 07~~
  - Thurs Mar 21
  - Thurs Apr 04
  - Thurs Apr 18
