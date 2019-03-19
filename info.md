@@ -33,7 +33,7 @@ Instead of a shared reading, please come to the meeting with an example of excit
 
 ## Spring 2019
 
-Our regular meeting time for Spring 2019 will be Thursdays 4pm-6pm, beginning Thurs Feb 21.
+Our regular meeting time for Spring 2019 will be Thursdays 5pm-7pm, beginning Thurs Feb 21.
 
 For more updated information, join [our mailing list](https://groups.mit.edu/webmoira/list/ai-ethics).
 
