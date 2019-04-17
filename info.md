@@ -18,17 +18,11 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 ## Next meeting
 
-Our next meeting is **Thurs March 21, 2019** from 5pm-7pm in [room 32-D463](https://whereis.mit.edu/?go=32).
+Our next meeting is **Thurs April 18, 2019** from 5pm-7pm in [room 32-124](https://whereis.mit.edu/?go=32).
 
-We will be hosting the new College of Computing Working Group on the Social Implications and Responsibilities of Computing. This is our chance to weigh in on the new College of Computing.
+What risks might we see from advanced artificial intelligence that don't necessarily have analogues today?  If we find that the risk of catastrophic accidents from AI is high, what can be done now to ensure that AI are developed safely?  We'll discuss why some researchers consider advanced artificial intelligence to be an "existential risk" and what work is being done (considering both technical work and policy work) to mitigate the dangers related to AI development.
 
-Please join us to think about what it would mean for MIT’s new college to integrate rigorous research on the social implications of computing-- exactly the issues that have been animating this reading group.
-
-Instead of a shared reading, please come to the meeting with an example of exciting research (a paper, blog post, newspaper article) that analyzes social implications and ethics of computing. Here are some examples of research you could bring:
-- https://repository.law.umich.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1200&context=law_econ_current
-- http://www.samirpassi.com/files/documents/cscw136-passi.pdf
-- https://docs.google.com/document/d/1bnQKzFAzCTcBcNvW5tsPuSDje8WWWY-SSF4wQm6TLvQ/edit
-- http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf
+If you have time, take a look at these articles: Kelsey Piper's Vox [explainer on AI safety](https://www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligence-machine-learning-safety-alignment) and Paul Christiano's ["More realistic tales of doom"](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/more-realistic-tales-of-doom).
 
 
 ## Spring 2019
@@ -40,8 +34,8 @@ For more updated information, join [our mailing list](https://groups.mit.edu/web
 Our planned meeting dates for this semester are:
  - ~~Thurs Feb 21~~
  - ~~Thurs Mar 07~~
- - Thurs Mar 21
- - Thurs Apr 04
+ - ~~Thurs Mar 21~~
+ - ~~Thurs Apr 04~~
  - Thurs Apr 18
  - Thurs May 02
  - Thurs May 16
