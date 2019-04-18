@@ -35,3 +35,8 @@ UC San Diego in 2011.
 <img src="/harini.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 <a href="http://harinisuresh.com/">Harini Suresh</a> is a PhD student in EECS at MIT. She's particularly interested in the complications and societal implications that arise when machine learning is used with imperfect real-world data. Harini did her undergrad and M.Eng. at MIT as well, and worked on developing interpretable methods for predicting onset and weaning of invasive interventions for patients in Intensive Care Units. She also likes photography and making/eating bread.
 </p>
+<br>
+<p>
+<img src="/bernardo.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+<a href="http://aceituno.mit.edu/">Bernardo Aceituno</a> is a SM student in Mechanical Engineering at MIT. His research interest lie in the area of robotic manipulation. In particular, he studies applications of optimization and AI to handle uncertainty for precise and safe for manipulation tasks. Bernardo did his undergrad at Universidad Simon Bolivar, Venezuela, where he worked on locomotion of quadruped robots over rough terrains, also in collabaoration with Toyota Research Institute (TRI) and Istituto Italiano di Tecnologia (IIT).
+</p>
