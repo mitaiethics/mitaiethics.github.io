@@ -37,6 +37,6 @@ UC San Diego in 2011.
 </p>
 <br>
 <p>
-<img src="/bernardo.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://aceituno.mit.edu/">Bernardo Aceituno</a> is a SM student in Mechanical Engineering at MIT. His research interest lie in the area of robotic manipulation. In particular, he studies applications of optimization and AI to handle uncertainty for precise and safe for manipulation tasks. Bernardo did his undergrad at Universidad Simon Bolivar, Venezuela, where he worked on locomotion of quadruped robots over rough terrains, also in collabaoration with Toyota Research Institute (TRI) and Istituto Italiano di Tecnologia (IIT).
+<img src="/bernardo.png" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+<a href="http://aceituno.mit.edu/">Bernardo Aceituno</a> is an SM student in Mechanical Engineering at MIT. His research interests lie in the area of robotic manipulation. In particular, he studies applications of optimization and AI to mitigate the effects of uncertainty in precise and safe manipulation tasks. Bernardo did his undergrad at Universidad Simon Bolivar (USB), Venezuela, where he worked on locomotion of quadruped robots over rough terrains, also in collabaoration with Toyota Research Institute (TRI) and Istituto Italiano di Tecnologia (IIT).
 </p>
