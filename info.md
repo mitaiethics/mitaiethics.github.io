@@ -18,11 +18,9 @@ If you are interested, [please join our mailing list](https://groups.mit.edu/web
 
 ## Next meeting
 
-Our next meeting is **Thurs April 18, 2019** from 5pm-7pm in [room 32-124](https://whereis.mit.edu/?go=32).
+Our next meeting is **Thurs May 9, 2019** from 5pm-6:30pm in (room TBD).
 
-What risks might we see from advanced artificial intelligence that don't necessarily have analogues today?  If we find that the risk of catastrophic accidents from AI is high, what can be done now to ensure that AI are developed safely?  We'll discuss why some researchers consider advanced artificial intelligence to be an "existential risk" and what work is being done (considering both technical work and policy work) to mitigate the dangers related to AI development.
-
-If you have time, take a look at these articles: Kelsey Piper's Vox [explainer on AI safety](https://www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligence-machine-learning-safety-alignment) and Paul Christiano's ["More realistic tales of doom"](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/more-realistic-tales-of-doom).
+We are excited to have Adrienne Mannov leading this meeting. Adrienne is a social anthropologist who is visiting MIT from her postdoc in Denmark. She will be talking about an interdisciplinary project she has been working to help citizens engage in debate about their data security via virtual reality. This will be a great opportunity to walk through a design process (that involves multiple people of different backgrounds) for a specific project that deals with many of the issues we've touched on previously around data privacy, citizen's rights, and democratizing information.  We hope to see you there!
 
 
 ## Spring 2019
@@ -36,8 +34,8 @@ Our planned meeting dates for this semester are:
  - ~~Thurs Mar 07~~
  - ~~Thurs Mar 21~~
  - ~~Thurs Apr 04~~
- - Thurs Apr 18
- - Thurs May 02
- - Thurs May 16
+ - ~~Thurs Apr 18~~
+ - ~~Thurs May 02~~
+ - Thurs May 09
 
 If you have articles or papers you would like to discuss or are interested in leading a future reading group meeting, please contact ai-ethics-admin [at] mit [dot] edu
