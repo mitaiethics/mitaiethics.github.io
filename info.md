@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Why AI Ethics?"
+title: "About the group"
 permalink: /
 ---
 
