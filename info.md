@@ -4,7 +4,7 @@ title: "About the group"
 permalink: /
 ---
 
-The MIT AI and Ethics reading group aims to facilitate interdisciplinary, institute-wide discussions about AI technology and the concerns they motivate. We want to provide a space for people in the MIT community to ask questions, gather feedback on ideas or research, learn about these topics, and find a community of other people interested in engaging. 
+The MIT AI and Ethics discussion group aims to facilitate interdisciplinary, institute-wide discussions about AI technology and the concerns they motivate. We want to provide a space for people in the MIT community to ask questions, gather feedback on ideas or research, learn about these topics, and find a community of other people interested in engaging. 
 
 If you are interested, [please join our mailing list](https://groups.mit.edu/webmoira/list/ai-ethics).
 
