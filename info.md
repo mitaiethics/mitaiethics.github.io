@@ -13,7 +13,10 @@ UPDATE: In spring 2020, we will have bi-weekly meetings on Thursdays from 5-6pm!
 
 ## Next meeting
 
-The next meeting will be **Thursday 2/13** 5-6pm. Stay posted for info about the topic and location!
+The next meeting will be **Thursday 2/13** 5-6pm. It will be in 32-144 (in the Stata Center lobby).  We encourage people from all backgrounds to come! 
+
+Please read this paper beforehand: [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing, by Raji et. al.](https://arxiv.org/pdf/2001.00973.pdf)
+
 
 ## Looking ahead
 
