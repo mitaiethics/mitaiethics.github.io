@@ -14,4 +14,4 @@ We will be holding monthly meetings over the summer: June 18th, July 9th, August
 
 ## Join the discussion
 
-If you are interested in joining the dicussion, please join our [mailing list](https://groups.mit.edu/webmoira/list/ai-ethics) for the latest information. If you have articles or papers you would like to discuss, please contact the [organizing team](mailto: ai-ethics-admin@mit.edu). 
+If you are interested in joining the dicussion, please join our [mailing list](https://groups.mit.edu/webmoira/list/ai-ethics) for the latest information. If you have articles or papers you would like to discuss, please contact the [organizing team](mailto:ai-ethics-admin@mit.edu). 
