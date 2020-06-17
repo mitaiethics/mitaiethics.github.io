@@ -38,6 +38,8 @@ UC San Diego in 2011.
 <a href="http://www.milopb.com/"> Milo Phillips-Brown </a> is a Postdoctoral Associate in the Ethics of Technology at MIT Philosophy and a Research Fellow in Digital Ethics at the Jain Family Institute. He studies the ethical and social justice implications of technology and teaches ethical engineering practices to computer scientists.
 </p>
 
+<br>
+
 ### Past Organizers
 
 
