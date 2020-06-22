@@ -19,7 +19,7 @@ We welcome and encourage all members of the MIT community. Questions of AI ethic
 
 <p>
 <img src="/marla.png" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-Marla Odell is an undergraduate studying Computer Science and Economics at MIT. She does research at the MIT Computer Science and Artificial Intelligence Laboratory focused on interpretable and explainable machine learning algorithms. Outside of class, Marla enjoys rowing, baking, and playing baord games. 
+Marla Odell is an undergraduate studying Computer Science and Economics at MIT. She is a researcher at the MIT Computer Science and Artificial Intelligence Laboratory studying interpretable and explainable machine learning algorithms. Previously, she has done research at the Brookings Institution and the MIT Media Lab. Outside of class and research, Marla enjoys rowing, baking, and playing baord games. 
 </p>
 
 <br>
