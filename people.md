@@ -39,6 +39,7 @@ Marla Odell is an undergraduate studying Computer Science and Economics at MIT. 
 <br>
 <a href="http://irenechen.net">Irene Chen</a>
 </p>
+<br>
 <p>
 <img src="/leilani.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 <br>
