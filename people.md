@@ -18,17 +18,8 @@ We welcome and encourage all members of the MIT community. Questions of AI ethic
 <br>
 
 <p>
-<img src="/leilani.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://people.csail.mit.edu/lgilpin/">Leilani H. Gilpin</a> is a PhD student in Electrical Engineering and
-Computer Science at MIT.  Her area of focus is explanatory artificial
-intelligence, which enables autonomous vehicles, and other autonomous
-machines to explain themselves. She is currently working on a Toyota
-Research Initiative Project, “The Car Can Explain!” in the Computer
-Science and Artificial Intelligence Lab under the supervision of
-Professor Gerald Jay Sussman.  Before returning to academia, Leilani
-worked at Palo Alto Research Center (PARC) and earned a M.S. from Stanford University and a  B.S. in Mathematics (with honors),
-B.S. in Computer Science (with highest honors), and a music minor from
-UC San Diego in 2011. 
+<img src="/marla.png" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+Marla Odell is an undergraduate studying Computer Science and Economics at MIT. She does research at the MIT Computer Science and Artificial Intelligence Laboratory focused on interpretable and explainable machine learning algorithms. Outside of class, Marla enjoys rowing, baking, and playing baord games. 
 </p>
 
 <br>
@@ -45,8 +36,12 @@ UC San Diego in 2011.
 
 <p>
 <img src="/irene.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-  <br>
+<br>
 <a href="http://irenechen.net">Irene Chen</a>
+<br>
+<br>
+<img src="/leilani.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+<br>
+<a href="http://people.csail.mit.edu/lgilpin/">Leilani H. Gilpin</a> 
 </p>
-
 <br>
