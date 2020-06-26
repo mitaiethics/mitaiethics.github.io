@@ -33,7 +33,7 @@ Marla Odell is an undergraduate studying Computer Science, Economics, and Math a
 
 <p>
 <img src="/riana.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="https://www.rianabshah.com/"> Riana Shah </a> is a concurrent degree student at MIT and Harvard studying business and public policy. With her background in tech and sociology, she has built an Ed tech startup that has done work in over 19 cities across 11 countries. She is now building Ethix.AI that combats algorithmic bias to fight systematic racism in tech. You can reach her at: rianas@mit.edu.
+<a href="https://www.rianabshah.com/"> Riana Shah </a> is a concurrent degree student at MIT and Harvard studying business and public policy. With her background in tech and sociology, she built an Ed tech startup that has done work in over 19 cities across 11 countries. She is now building Ethix.AI that combats algorithmic bias to fight systematic racism in tech. You can reach her at: rianas@mit.edu.
 </p>
 
 <br>
