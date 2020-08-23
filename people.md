@@ -6,7 +6,7 @@ permalink: /people/
 
 We welcome and encourage all members of the MIT community. Questions of AI ethics span engineering, humanities, business, and the sciences, so the more perspectives and thoughtful participants, the better! We expect all reading group members to conduct themselves in a respectful, inclusive, and considerate manner. 
 
-<br> <br>
+<br>
 
 ## Organizers
 
