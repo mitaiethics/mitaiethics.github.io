@@ -1,14 +1,10 @@
 ---
 layout: page
-title: "People"
-permalink: /people/
+title: "Organizers"
+permalink: /organizers/
 ---
 
-We welcome and encourage all members of the MIT community. Questions of AI ethics span engineering, humanities, business, and the sciences, so the more perspectives and thoughtful participants, the better! We expect all reading group members to conduct themselves in a respectful, inclusive, and considerate manner. 
-
-<br>
-
-## Organizers
+Have a discussion topic idea? Want to advertise an MIT-affiliated AI ethics opportunity? Having trouble joining our mailing list? Please contact our organizing team via [email](mailto:ai-ethics-admin@mit.edu).
 
 <p>
 <img src="/assets/headshots/harini.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
@@ -33,7 +29,7 @@ Marla Evelyn is an undergraduate studying computer science, economics, and math 
 
 <p>
 <img src="/assets/headshots/riana.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="https://www.rianabshah.com/"> Riana Shah </a> is a concurrent degree student at MIT and Harvard studying business and public policy. With her background in tech and sociology, she built an Ed tech startup that has done work in over 19 cities across 11 countries. She is now building Ethix.AI that combats algorithmic bias to fight systematic racism in tech. You can reach her at: rianas@mit.edu.
+<a href="https://www.rianabshah.com/"> Riana Shah </a> is a concurrent degree student at MIT and Harvard studying business and public policy. With her background in tech and sociology, she built an Ed tech startup that has done work in over 19 cities across 11 countries. She is now building Ethix.AI that combats algorithmic bias to fight systematic racism in tech.
 </p>
 
 <br>
@@ -44,7 +40,6 @@ Marla Evelyn is an undergraduate studying computer science, economics, and math 
 <img src="/assets/headshots/leilani.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 <a href="http://people.csail.mit.edu/lgilpin/">Leilani H. Gilpin</a>
 </p>
-<br>
 <br>
 <br>
 <br>

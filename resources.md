@@ -4,13 +4,11 @@ title: "Resources"
 permalink: /resources/
 ---
 
-Interested in learning more about the ethics of AI? Here is a compilation of resources and opportunities for MIT-affiliates to continue exploring the implications of AI technologies. 
+Interested in learning more? Here is a compilation of resources and opportunities for MIT-affiliates to continue exploring the ethical implications of AI technologies. 
 
-If there are any additional resources you think we should add to this list, please contact the [organizing team](mailto:ai-ethics-admin@mit.edu). 
+If there are any additional resources you think we should add to this list, please contact the [organizing team](https://mitaiethics.github.io/organizers). 
 
-<br> 
-
-## Courses
+### Courses
 
 <ul>
   <li><a href="http://student.mit.edu/catalog/search.cgi?search=17.055">17.055</a>: Just Code: The Ethical Lifecycle of Machine Learning </li>
@@ -20,7 +18,7 @@ If there are any additional resources you think we should add to this list, plea
   <li><a href="https://experientialethics.mit.edu/">24.133</a>: Experiential Ethics</li>
 </ul>
 
-## Organizations
+### Organizations
 
 <ul>
   <li><a href="http://student.mit.edu/catalog/search.cgi?search=17.055">Schwarzman College of Computing Social and Ethical Responsibilities of Computing (SERC)</a></li>
@@ -28,11 +26,11 @@ If there are any additional resources you think we should add to this list, plea
 </ul>
 
 
-## Resources
+### Resources
+
 <ul>
   <li><a href="https://news.mit.edu/2019/ethics-computing-and-ai-perspectives-mit-0318">MIT News</a>: Ethics, computing, and AI: Perspectives from MIT</li>
-  <li><a href="https://philosophy.mit.edu/ethicsandai/">Philosophy Department</a></li>: Ethics & AI Series
+  <li><a href="https://philosophy.mit.edu/ethicsandai/">Philosophy Department</a>: Ethics & AI Series</li>
   <li><a href="https://www.technologyreview.com/topic/tech-policy/ai-ethics/">MIT Technology Review</a>: AI Ethics Series</li>
   <li><a href="https://shass.mit.edu/news/news-2019-ethics-computing-and-ai-perspectives-mit">SHASS</a>: Series on Ethics, Computing and AI</li>
-
 </ul>
