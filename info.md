@@ -10,7 +10,7 @@ The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institu
 
 ## Meeting schedule
 
-We will be holding monthly meetings over the summer: June 18th, July 9th, August 13th. All meetings will take place from 4-5pm ET via Zoom.  
+We will be holding remote montly meetings through Fall 2020. The specific dates and times will be announced shortly. 
 
 ## Join the discussion
 
