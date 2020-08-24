@@ -19,8 +19,8 @@ Interested in learning more? Here is a compilation of resources and opportunitie
 ### Organizations
 
 <ul>
-  <li><a href="https://computing.mit.edu/SERC">Schwarzman College of Computing Social and Ethical Responsibilities of Computing (SERC)</a></li>
-  <li><a href="https://www.media.mit.edu/groups/ethics-and-governance/overview/">MIT Media Lab Ethics and Governance of AI</a></li>
+  <li><a href="https://computing.mit.edu/SERC">Schwarzman College of Computing</a>: Social and Ethical Responsibilities of Computing (SERC)</li>
+  <li><a href="https://www.media.mit.edu/groups/ethics-and-governance/overview/">MIT Media Lab</a>: Ethics and Governance of AI</li>
 </ul>
 
 
