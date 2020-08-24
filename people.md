@@ -6,7 +6,7 @@ permalink: /people/
 
 We welcome and encourage all members of the MIT community. Questions of AI ethics span engineering, humanities, business, and the sciences, so the more perspectives and thoughtful participants, the better! We expect all reading group members to conduct themselves in a respectful, inclusive, and considerate manner. 
 
-<br> <br>
+<br>
 
 ## Organizers
 
@@ -44,6 +44,10 @@ Marla Evelyn is an undergraduate studying computer science, economics, and math 
 <img src="/assets/headshots/leilani.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 <a href="http://people.csail.mit.edu/lgilpin/">Leilani H. Gilpin</a>
 </p>
+<br>
+<br>
+<br>
+<br>
 <br>
 <p>
 <img src="/assets/headshots/irene.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">

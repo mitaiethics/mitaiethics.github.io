@@ -1,7 +1,38 @@
 ---
 layout: page
 title: "Resources"
-permalink: /Resources/
+permalink: /resources/
 ---
 
-testing
+Interested in learning more about the ethics of AI? Here is a compilation of resources and opportunities for MIT-affiliates to continue exploring the implications of AI technologies. 
+
+If there are any additional resources you think we should add to this list, please contact the [organizing team](mailto:ai-ethics-admin@mit.edu). 
+
+<br> 
+
+## Courses
+
+<ul>
+  <li><a href="http://student.mit.edu/catalog/search.cgi?search=17.055">17.055</a>: Just Code: The Ethical Lifecycle of Machine Learning </li>
+  <li><a href="http://student.mit.edu/catalog/search.cgi?search=24.131">24.131</a> Ethics of Technology</li>
+  <li><a href="http://student.mit.edu/catalog/search.cgi?search=1.082">1.082 / 2.900 / 6.904 / 10.01 / 16.676 / 22.014</a> Ethics for Engineers</li>
+  <li><a href="http://student.mit.edu/catalog/search.cgi?search=6.S976">6.S976</a> Special Subject in Electrical Engineering and Computer Science</li>
+  <li><a href="https://experientialethics.mit.edu/">24.133</a> Experiential Ethics</li>
+</ul>
+
+## Organizations
+
+<ul>
+  <li><a href="http://student.mit.edu/catalog/search.cgi?search=17.055">Schwarzman College of Computing Social and Ethical Responsibilities of Computing (SERC)</a></li>
+  <li><a href="https://www.media.mit.edu/groups/ethics-and-governance/overview/">MIT Media Lab Ethics and Governance of AI</a></li>
+</ul>
+
+
+## Resources
+<ul>
+  <li><a href="https://news.mit.edu/2019/ethics-computing-and-ai-perspectives-mit-0318">Ethics, computing, and AI: Perspectives from MIT</a></li>
+  <li><a href="https://philosophy.mit.edu/ethicsandai/"></a>MIT Philosophy's Ethics & AI Series</li>
+  <li><a href="https://www.technologyreview.com/topic/tech-policy/ai-ethics/">MIT Technology Review AI Ethics Series</a>></li>
+  <li><a href="https://shass.mit.edu/news/news-2019-ethics-computing-and-ai-perspectives-mit">SHASS Series on Ethics, Computing and AI</a>></li>
+
+</ul>
