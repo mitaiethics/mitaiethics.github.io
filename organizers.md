@@ -4,7 +4,9 @@ title: "Organizers"
 permalink: /organizers/
 ---
 
-Have a discussion topic idea? Want to advertise an MIT-affiliated AI ethics opportunity? Having trouble joining our mailing list? Please contact our organizing team via [email](mailto:ai-ethics-admin@mit.edu).
+Do you have a discussion topic idea? Or do you want to advertise an MIT-affiliated AI ethics opportunity? Please contact our organizing team via [email](mailto:ai-ethics-admin@mit.edu).
+
+<br>
 
 <p>
 <img src="/assets/headshots/harini.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
