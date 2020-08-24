@@ -3,5 +3,5 @@
 main:
   - title: "People"
     url: /people/
-  - title: "Meetings"
-    url: /meetings/
+  - title: "Resources"
+    url: /resources/
