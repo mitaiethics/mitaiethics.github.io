@@ -4,7 +4,7 @@ title: "Organizers"
 permalink: /organizers/
 ---
 
-Do you have a discussion topic idea? Or do you want to advertise an MIT-affiliated AI ethics opportunity? Please contact our organizing team via [email](mailto:ai-ethics-admin@mit.edu).
+If you have questions, ideas, or MIT-affiliated resources to share, please contact our organizing team via [email](mailto:ai-ethics-admin@mit.edu).
 
 <br>
 
