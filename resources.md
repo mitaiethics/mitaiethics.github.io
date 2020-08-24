@@ -4,7 +4,7 @@ title: "Resources"
 permalink: /resources/
 ---
 
-Interested in learning more? Here is a compilation of resources and opportunities for MIT-affiliates to continue exploring the ethical implications of AI technologies. If there are any additional resources you think we should add to this list, please contact the [organizing team](https://mitaiethics.github.io/organizers). 
+Interested in learning more? Here is a compilation of resources and opportunities for MIT-affiliates to continue exploring the ethical implications of AI technologies. If there are any additional resources you think should be added to this list, please contact the [organizing team](https://mitaiethics.github.io/organizers). 
 
 ### Courses
 
@@ -28,7 +28,7 @@ Interested in learning more? Here is a compilation of resources and opportunitie
 
 <ul>
   <li><a href="https://news.mit.edu/2019/ethics-computing-and-ai-perspectives-mit-0318">MIT News</a>: Ethics, computing, and AI: Perspectives from MIT</li>
-  <li><a href="https://philosophy.mit.edu/ethicsandai/">Philosophy Department</a>: Ethics & AI Series</li>
+  <li><a href="https://philosophy.mit.edu/ethicsandai/">Philosophy Department</a>: Ethics and AI Series</li>
   <li><a href="https://www.technologyreview.com/topic/tech-policy/ai-ethics/">MIT Technology Review</a>: AI Ethics Series</li>
   <li><a href="https://shass.mit.edu/news/news-2019-ethics-computing-and-ai-perspectives-mit">SHASS</a>: Series on Ethics, Computing and AI</li>
 </ul>
