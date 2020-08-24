@@ -26,7 +26,7 @@ If there are any additional resources you think we should add to this list, plea
 </ul>
 
 
-### Resources
+### Articles
 
 <ul>
   <li><a href="https://news.mit.edu/2019/ethics-computing-and-ai-perspectives-mit-0318">MIT News</a>: Ethics, computing, and AI: Perspectives from MIT</li>
