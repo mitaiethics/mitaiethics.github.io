@@ -18,7 +18,7 @@ Optional readings:
 * [Big Data and Discrimination](https://lawreview.uchicago.edu/publication/big-data-and-discrimination)
 * [Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination](https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/).
 
-Upcoming meetings: <b>October 22nd from 5-6pm ET</b> and <b>November 19th from 5-6pm ET</b>. 
+Subsequent meetings will be held on <b>October 22nd from 5-6pm ET</b> and <b>November 19th from 5-6pm ET</b>. 
 
 ### Join the discussion
 
