@@ -8,8 +8,8 @@ The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institu
 
 ### Meeting schedule
 
-Our next meeting will be held on <b>September 24th from 5-6pm ET</b> ([RSVP](https://www.eventbrite.com/e/mit-ai-ethics-reading-group-financial-decision-algorithms-discussion-tickets-120857495021)). It will focus on the unique challenges of applying prediction algorithms to an individual, using financial decision algorithms as a case study. 
-* (2) Highly recommended readings: [The Price of Fairness](https://www.mit.edu/~dbertsim/papers/Fairness/The%20Price%20of%20Fairness.pdf); [Reducing Bias in AI Baded Financial Services](https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/).
+Our next meeting will be held on <b>September 24th from 5-6pm ET</b> ([RSVP](https://www.eventbrite.com/e/mit-ai-ethics-reading-group-financial-decision-algorithms-discussion-tickets-120857495021)). It will focus on the unique challenges of applying prediction algorithms to individuals, using financial decision algorithms as a case study. 
+* (2) Highly recommended readings: [The Price of Fairness](https://www.mit.edu/~dbertsim/papers/Fairness/The%20Price%20of%20Fairness.pdf); [Reducing Bias in AI Based Financial Services](https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/).
 * (2) Optional readings: [Big Data and Discrimination](https://lawreview.uchicago.edu/publication/big-data-and-discrimination); [Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination](https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/).
 
 Upcoming meetings: <b>October 22nd from 5-6pm ET</b> and <b>November 19th from 5-6pm ET</b>. 
