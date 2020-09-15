@@ -28,6 +28,7 @@ Marla Evelyn is an undergraduate studying computer science, economics, and math 
 </p>
 
 <br>
+<br>
 
 <p>
 <img src="/assets/headshots/sarah.JPG" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
