@@ -41,7 +41,7 @@ Sarah Cen is a PhD student in Computer Science at MIT. She studies machine learn
 
 <p>
 <img src="/assets/headshots/irene.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://irenechen.net">Irene Chen</a> is a student in computer science at MIT, advised by David Sontag in the Clinical Machine Learning group. She works on machine learning methods to advance understanding of health and reduce inequality. Prior to MIT, she completed a joint AB/SM degree at Harvard. She also worked at Dropbox as a data scientist, machine learning engineer, and chief of staff.
+<a href="http://irenechen.net">Irene Chen</a> is a PhD student in computer science at MIT, advised by David Sontag in the Clinical Machine Learning group. She works on machine learning methods to advance understanding of health and reduce inequality. Prior to MIT, she completed a joint AB/SM degree at Harvard. She also worked at Dropbox as a data scientist, machine learning engineer, and chief of staff.
 </p>
 
 <br>
