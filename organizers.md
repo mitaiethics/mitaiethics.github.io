@@ -23,13 +23,6 @@ Marla Evelyn is an undergraduate studying computer science, economics, and math 
 <br>
 
 <p>
-<img src="/assets/headshots/milo.png" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://www.milopb.com/"> Milo Phillips-Brown </a> is a Postdoctoral Associate in the Ethics of Technology at MIT Philosophy and a Research Fellow in Digital Ethics at the Jain Family Institute. He studies the ethical and social justice implications of technology and teaches ethical engineering practices to computer scientists.
-</p>
-
-<br>
-
-<p>
 <img src="/assets/headshots/riana.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 <a href="https://www.rianabshah.com/"> Riana Shah </a> is a concurrent degree student at MIT and Harvard studying business and public policy. With her background in tech and sociology, she built an Ed tech startup that has done work in over 19 cities across 11 countries. She is now building Ethix.AI that combats algorithmic bias to fight systematic racism in tech.
 </p>
@@ -46,16 +39,21 @@ Marla Evelyn is an undergraduate studying computer science, economics, and math 
 ### Past Organizers
 
 <p>
-<img src="/assets/headshots/leilani.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://people.csail.mit.edu/lgilpin/">Leilani H. Gilpin</a>
+<img src="/assets/headshots/irene.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+<a href="http://irenechen.net">Irene Chen</a> is a student in computer science at MIT, advised by David Sontag in the Clinical Machine Learning group. She works on machine learning methods to advance understanding of health and reduce inequality. Prior to MIT, she completed a joint AB/SM degree at Harvard. She also worked at Dropbox as a data scientist, machine learning engineer, and chief of staff.
 </p>
-<br>
-<br>
-<br>
+
 <br>
 <p>
-<img src="/assets/headshots/irene.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://irenechen.net">Irene Chen</a>
+<img src="/assets/headshots/leilani.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+<a href="http://people.csail.mit.edu/lgilpin/">Leilani H. Gilpin</a> is a PhD student in Electrical Engineering and Computer Science at MIT.  Her area of focus is explanatory artificial intelligence, which enables autonomous vehicles, and other autonomous machines to explain themselves. She is currently working on a Toyota Research Initiative Project, “The Car Can Explain!” in the Computer Science and Artificial Intelligence Lab under the supervision of Professor Gerald Jay Sussman.  Before returning to academia, Leilani worked at Palo Alto Research Center (PARC) and earned a M.S. from Stanford University and a  B.S. in Mathematics (with honors), B.S. in Computer Science (with highest honors), and a music minor from UC San Diego in 2011. 
+</p>
+
+<br>
+
+<p>
+<img src="/assets/headshots/milo.png" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+<a href="http://www.milopb.com/"> Milo Phillips-Brown </a> is a Postdoctoral Associate in the Ethics of Technology at MIT Philosophy and a Research Fellow in Digital Ethics at the Jain Family Institute. He studies the ethical and social justice implications of technology and teaches ethical engineering practices to computer scientists.
 </p>
 
 <br>
