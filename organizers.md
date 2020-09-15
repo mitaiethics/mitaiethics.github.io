@@ -36,6 +36,13 @@ Marla Evelyn is an undergraduate studying computer science, economics, and math 
 
 <br>
 
+<p>
+<img src="/assets/headshots/sarah.JPG" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+<a href="..."> Sarah Cen </a> is a PhD student in Computer Science at MIT. She studies machine learning theory through the lens of social good. Her current research shows that state-of-the-art algorithms need not sacrifice performance in order to be socially responsible, using these results to construct mechanisms that align public and private interests. Her recent projects focus on social media regulation and feedback loops in prediction systems. Sarah has previously worked on autonomous vehicles, communication networks, reinforcement learning, and robotics.
+</p>
+
+<br>
+
 ### Past Organizers
 
 <p>
