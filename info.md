@@ -18,7 +18,7 @@ Optional readings:
 * [Big Data and Discrimination](https://lawreview.uchicago.edu/publication/big-data-and-discrimination)
 * [Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination](https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/).
 
-Subsequent meetings will be held on <b>October 22nd from 5-6pm ET</b> and <b>November 19th from 5-6pm ET</b>. 
+Subsequent meetings will be held on <b>October 22nd from 5-6pm ET</b> and <b>November 19th from 5-6pm ET</b>. For the latest information, please subscribe to the [MIT AI Ethics Calendar](https://calendar.google.com/calendar/u/0/embed?src=uqgrqa3k3rnkpl33rj37bqu5o4@group.calendar.google.com&ctz=America/New_York).
 
 ### Join the discussion
 
