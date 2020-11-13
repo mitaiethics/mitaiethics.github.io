@@ -13,7 +13,7 @@ Interested in learning more? Here is a compilation of resources and opportunitie
   <li><a href="http://student.mit.edu/catalog/search.cgi?search=24.131">24.131</a>: Ethics of Technology</li>
   <li><a href="http://student.mit.edu/catalog/search.cgi?search=1.082">1.082 / 2.900 / 6.904 / 10.01 / 16.676 / 22.014</a>: Ethics for Engineers</li>
   <li><a href="https://gelp.mit.edu/gel-grad-ai">6.S976</a>: Engineering Leadership in the Age of Artificial Intelligence</li>
-  <li><a href="https://experientialethics.mit.edu/">24.133</a>: Experiential Ethics</li>
+  <li><a href="https://experientialethics.mit.edu/">24.133</a></li>
 </ul>
 
 ### Organizations
@@ -21,6 +21,7 @@ Interested in learning more? Here is a compilation of resources and opportunitie
 <ul>
   <li><a href="https://computing.mit.edu/SERC">Schwarzman College of Computing</a>: Social and Ethical Responsibilities of Computing (SERC)</li>
   <li><a href="https://www.media.mit.edu/groups/ethics-and-governance/overview/">MIT Media Lab</a>: Ethics and Governance of AI</li>
+  <li><a href="https://www.rianabshah.com/ethixai">EthixAI</a>: Initiative to Alleviate Algorithmic Bias</li>
 </ul>
 
 
