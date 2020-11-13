@@ -8,7 +8,7 @@ The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institu
 
 ### Meeting schedule
 
-Our next meeting will be held on <b>>November 19th from 5-6pm ET ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLScJhFfk8JQodzi3V0hZPpb1VZn_6jNolbFuqMQmULR4F8MgYQ/viewform)). For the latest information, please subscribe to the [MIT AI Ethics Calendar](https://calendar.google.com/calendar/u/0/embed?src=uqgrqa3k3rnkpl33rj37bqu5o4@group.calendar.google.com&ctz=America/New_York).
+Our next meeting will be held on <b>November 19th from 5-6pm ET</b> ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLScJhFfk8JQodzi3V0hZPpb1VZn_6jNolbFuqMQmULR4F8MgYQ/viewform)). For the latest information, please subscribe to the [MIT AI Ethics Calendar](https://calendar.google.com/calendar/u/0/embed?src=uqgrqa3k3rnkpl33rj37bqu5o4@group.calendar.google.com&ctz=America/New_York).
 
 ### Join the discussion
 
