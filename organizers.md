@@ -9,13 +9,6 @@ If you have questions, ideas, or MIT-affiliated resources to share, please conta
 <br>
 
 <p>
-<img src="/assets/headshots/harini.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://harinisuresh.com/">Harini Suresh</a> is PhD student in computer science at MIT. She is particularly interested in studying how complications arise when machine learning is used with imperfect real-world data, and building tools that surface possible concerns to end users. She did her undergrad and M.Eng. at MIT as well, and worked on developing interpretable methods for predicting onset and weaning of invasive interventions for patients in Intensive Care Units. She has spent summers working at Google Brain, Jawbone, and Zephyr Health. Outside of research, she loves doing aerial arts, baking all kinds of things, and reading.
-</p>
-
-<br>
-
-<p>
 <img src="/assets/headshots/marla.png" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 Marla Evelyn is an undergraduate studying computer science, economics, and math at MIT. She is a researcher at the MIT Computer Science and Artificial Intelligence Laboratory studying interpretable and explainable machine learning algorithms. Previously, she has done research at the Brookings Institution and the MIT Media Lab. Outside of class and research, Marla enjoys rowing, baking, and playing board games. 
 </p>
@@ -38,6 +31,13 @@ Sarah Cen is a PhD student in Computer Science at MIT. She studies machine learn
 <br>
 
 ### Past Organizers
+
+<p>
+<img src="/assets/headshots/harini.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+<a href="http://harinisuresh.com/">Harini Suresh</a> is PhD student in computer science at MIT. She is particularly interested in studying how complications arise when machine learning is used with imperfect real-world data, and building tools that surface possible concerns to end users. She did her undergrad and M.Eng. at MIT as well, and worked on developing interpretable methods for predicting onset and weaning of invasive interventions for patients in Intensive Care Units. She has spent summers working at Google Brain, Jawbone, and Zephyr Health. Outside of research, she loves doing aerial arts, baking all kinds of things, and reading.
+</p>
+
+<br>
 
 <p>
 <img src="/assets/headshots/irene.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
