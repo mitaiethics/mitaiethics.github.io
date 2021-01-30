@@ -6,13 +6,15 @@ permalink: /
 
 The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institute-wide discussions about AI technologies and the concerns they motivate. We want to provide a space for people in the MIT community to ask questions, gather feedback on ideas or research, learn from others, and connect with a community engaged with these topics. 
 
-### Meeting schedule
+### Next Meeting
 
-Our next meeting will be held on <b>February 18 from 5-6 pm ET</b> with a discussion focused on Explainability and Interpretability! Please RSVP ([here](https://docs.google.com/forms/d/e/1FAIpQLScJhFfk8JQodzi3V0hZPpb1VZn_6jNolbFuqMQmULR4F8MgYQ/viewform)). 
+Our next discussion will be on <b>February 18th from 5-6 pm ET</b> focusing on Explainability and Interpretability! Please RSVP ([here](https://docs.google.com/forms/d/e/1FAIpQLScJhFfk8JQodzi3V0hZPpb1VZn_6jNolbFuqMQmULR4F8MgYQ/viewform)). 
 
 This session will be a fireside chat with two domain experts. Josh Simons is a PhD candidate in the Department of Government at Harvard University, and he studies the political and ethics of machine learning. Yonadav Shavit is a PhD candidate in the Department of Computer Science at Harvard University who studies the societal consequences of decision-making in machine learning. 
 
-Below is the schedule for Spring 2021 (all meetings are held 5-6pm ET unless otherwise noted):
+### Meeting schedule
+
+Below is the tentative schedule for Spring 2021. (All meetings are held 5-6pm ET unless otherwise noted.)
 * February 18 - Explainability and Interpretability 
 * March 18 - Natural Language Processing (NLP): An Interface between Humans and Computers 
 * April 15 - The Data Pipeline
