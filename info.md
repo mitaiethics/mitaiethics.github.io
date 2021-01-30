@@ -19,7 +19,7 @@ This session will be a fireside chat with two domain experts. Josh Simons is a P
 * April 15 - The Data Pipeline
 * May 13 - Privacy: From Differential Privacy to GDPR 
 * June 10 - Open Discussion on AI Ethics: Should AI exist? 
-* TBD - Netflix viewing party!
+* TBD - <i>The Social Dilemma</i> viewing party!
 
 (All meetings are held 5-6pm ET unless otherwise noted.)
 
