@@ -10,7 +10,7 @@ The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institu
 
 Our next meeting will be on <b>February 18th from 5-6 pm ET</b> discussing Explainability and Interpretability! Please RSVP ([here](https://docs.google.com/forms/d/e/1FAIpQLScJhFfk8JQodzi3V0hZPpb1VZn_6jNolbFuqMQmULR4F8MgYQ/viewform)). 
 
-This session will be a fireside chat with two domain experts. Josh Simons is a PhD candidate in the Department of Government at Harvard University, and he studies the political and ethics of machine learning. Yonadav Shavit is a PhD candidate in the Department of Computer Science at Harvard University who studies the societal consequences of decision-making in machine learning. 
+This session will be a fireside chat with two domain experts. [Josh Simons](https://scholar.harvard.edu/joshua-simons/home) is a PhD candidate in the Department of Government at Harvard University, and he studies the political and ethics of machine learning. [Yonadav Shavit](https://yonadavshavit.com/) is a PhD candidate in the Department of Computer Science at Harvard University who studies the societal consequences of decision-making in machine learning. 
 
 ### Meeting schedule
 
@@ -19,7 +19,7 @@ This session will be a fireside chat with two domain experts. Josh Simons is a P
 * April 15 - The Data Pipeline
 * May 13 - Privacy: From Differential Privacy to GDPR 
 * June 10 - Open Discussion on AI Ethics: Should AI exist? 
-* TBD - <i>The Social Dilemma</i> viewing party!
+* TBD - <i>[The Social Dilemma](https://www.youtube.com/watch?v=uaaC57tcci0)</i> viewing party!
 
 (All meetings are held 5-6pm ET unless otherwise noted.)
 
