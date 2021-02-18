@@ -8,7 +8,7 @@ The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institu
 
 ### Next Meeting
 
-Our next meeting will be on <b>February 18th from 5-6 pm ET</b> discussing Explainability and Interpretability! Please RSVP ([here](https://docs.google.com/forms/d/e/1FAIpQLScJhFfk8JQodzi3V0hZPpb1VZn_6jNolbFuqMQmULR4F8MgYQ/viewform)). 
+Our next meeting will be on <b>February 18th from 5-6 pm ET</b> discussing Explainability and Interpretability! Please RSVP ([here](https://docs.google.com/forms/d/e/1FAIpQLSekFPK-dn8ZaNdEYDbkwCSjzVlUo4vjsaYHQwxdXdv5L_Kspg/viewform?gxids=7628)). 
 
 This session will be a fireside chat with two domain experts. [Josh Simons](https://scholar.harvard.edu/joshua-simons/home) is a PhD candidate in the Department of Government at Harvard University, and he studies the political and ethics of machine learning. [Yonadav Shavit](https://yonadavshavit.com/) is a PhD candidate in the Department of Computer Science at Harvard University who studies the societal consequences of decision-making in machine learning. 
 
