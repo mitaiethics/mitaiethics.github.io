@@ -8,20 +8,27 @@ The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institu
 
 ### Next Meeting
 
-Our next meeting will be on <b>Thursday, April 15th from 5-6 pm ET</b> on Data \& Justice! Please RSVP ([here](https://docs.google.com/forms/d/e/1FAIpQLSf2-Tui3Sgd3vt9v9Y5Z9VDnuetVMlvLFJVw5JLXMWvzEb9fg/viewform?usp=sf_link)). 
+Our next meeting will be on <b>Thursday, September 23 from 4-5 pm ET</b> on Historical Roots of AI & Decolonial Theory. The meeting will be followed by a reception with food outdoors at 5 pm ET. 
 
-This session will be a fireside chat with two domain experts from the [MIT Data + Feminism Lab](https://dataplusfeminism.mit.edu/). 
+Please RSVP ([here](https://forms.gle/2P2r6NscUpz3FWhq5)). 
 
-### Spring 2021 schedule
+### Meeting Format
 
-* February 18 - Explainability and Interpretability 
-* March 18 - Natural Language Processing (NLP): An Interface between Humans and Computers 
-* April 15 - The Data Pipeline
-* May 13 - Privacy: From Differential Privacy to GDPR 
-* June 10 - Open Discussion on AI Ethics: Should AI exist? 
-* TBD - <i>[The Social Dilemma](https://www.youtube.com/watch?v=uaaC57tcci0)</i> viewing party!
+This semester, we’re trying something new. In particular, there will be two types of meetings, as follows:
 
-(All meetings are held 5-6 pm ET unless otherwise noted.)
+* <b>Foundational Series</b>. These discussion-based meetings will focus on foundational texts. Attendees read through the texts before the meetings, then come together to discuss. 
+* <b>Speaker Series</b>. These meetings will be led by one or two speakers. The speaker(s) will present a topic and/or reading, then open up the floor for questions and discussion. 
+
+### Fall 2021 schedule
+
+* September 23 - Foundational Series 1 - Decolonial AI
+* October 7 - Speaker Series 1 - Sociological perspectives on AI
+* October 21 - Foundational Series 2
+* November 4 - Speaker Series 2 
+* November 18 - Foundational Series 3 
+* December 2 - Speaker Series 3 
+
+The topics for sessions after October 7 will be announced shortly.
 
 For the latest information, please subscribe to the [MIT AI Ethics Calendar](https://calendar.google.com/calendar/u/0/embed?src=uqgrqa3k3rnkpl33rj37bqu5o4@group.calendar.google.com&ctz=America/New_York).
 
