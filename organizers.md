@@ -6,6 +6,18 @@ permalink: /organizers/
 
 If you have questions, ideas, or MIT-affiliated resources to share, please contact our organizing team via [email](mailto:ai-ethics-admin@mit.edu).
 
+
+<br>
+
+<p>
+<img src="/assets/headshots/sarah.JPG" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+Sarah Cen is a PhD student in Computer Science at MIT. She studies machine learning theory through the lens of social good. Her current projects include works on social media regulation, matching markets with learning, fairness in recommendation systems, and feedback loops in data-driven algorithms. Sarah has previously worked on autonomous vehicles, communication networks, reinforcement learning, and robotics.
+</p>
+
+<br>
+
+### Past Organizers
+
 <br>
 
 <p>
@@ -21,16 +33,6 @@ Marla Evelyn is an undergraduate studying computer science, economics, and math 
 </p>
 
 <br>
-<br>
-
-<p>
-<img src="/assets/headshots/sarah.JPG" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-Sarah Cen is a PhD student in Computer Science at MIT. She studies machine learning theory through the lens of social good. Her current projects include works on social media regulation, matching markets with learning, fairness in recommendation systems, and feedback loops in data-driven algorithms. Sarah has previously worked on autonomous vehicles, communication networks, reinforcement learning, and robotics.
-</p>
-
-<br>
-
-### Past Organizers
 
 <p>
 <img src="/assets/headshots/harini.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
