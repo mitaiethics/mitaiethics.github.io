@@ -16,6 +16,13 @@ Sarah Cen is a PhD student in Computer Science at MIT. She studies machine learn
 
 <br>
 
+<p>
+<img src="/assets/headshots/andy.JPG" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+Andy Haupt is a PhD student at the Institute for Data, Systems, and Society. He uses insights from Microeconomic Theory to design systems that are interpretable and work as intended when people interact with them strategically. In current projects, he works on how users of recommender systems such as Spotify or Netflix are modeled, designs auctions for Machine Learning weights, and uses property rights to make the training of multi-agent robot groups more efficient and interpretable. Andy has previously worked as a high school teacher (maths and CS) and for the European Commission's Competition team working on new platform regulation and data-related antitrust cases.
+</p>
+
+<br>
+
 ### Past Organizers
 
 <br>
