@@ -24,7 +24,7 @@ Andy Haupt is a PhD student at the Institute for Data, Systems, and Society. He 
 <br>
 
 <p>
-<img src="/assets/headshots/Annie.JPG" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+<img src="/assets/headshots/Annie.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 Annie Snyder is an undergraduate studying Computer Science and Economics at MIT. She's currently exploring equitable design in tech and how to effectively implement these practices in industry, as well as working on engaging undergrads in careers for social good. Annie has previously worked on Internet Policy with the Knesset, Responsible AI at Facebook, and on unions and employment research at MIT. 
 </p>
 
