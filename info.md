@@ -22,7 +22,7 @@ This semester, we’re trying something new. In particular, there will be two ty
 ### Fall 2021 schedule
 
 * September 23 - Foundational Series 1 - Decolonial AI
-* October 7 - Speaker Series 1 - Sociological perspectives on AI
+* October 7 - Speaker Series 1 - [Dr Stefan Helmriech](https://anthropology.mit.edu/people/faculty/stefan-helmreich) on Artificial Intelligence and the Ethics of Accuracy
 * October 21 - Foundational Series 2
 * November 4 - Speaker Series 2 
 * November 18 - Foundational Series 3 
