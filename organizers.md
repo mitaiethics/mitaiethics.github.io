@@ -10,7 +10,7 @@ If you have questions, ideas, or MIT-affiliated resources to share, please conta
 
 <p>
 <img src="/assets/headshots/andy.JPG" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-Andy Haupt is a PhD student at the Institute for Data, Systems, and Society. He uses insights from Microeconomic Theory to design systems that are interpretable and work as intended when people interact with them strategically. In current projects, he works on how users of recommender systems such as Spotify or Netflix are modeled, designs auctions for Machine Learning weights, and uses property rights to make the training of multi-agent robot groups more efficient and interpretable. Andy has previously worked as a high school teacher (maths and CS) and for the European Commission's Competition team working on new platform regulation and data-related antitrust cases.
+Andy Haupt is an interdisciplinary Ph.D. Candidate with the Schwarzman College of Computing. He uses tools from Microeconomic Theory to understand multi-agent systems, recommendation engines, and automatic pricing tools in deployment and propose ways to mitigate undesirable consequences of seemingly innocuous algorithmic choices.
 </p>
 
 <br>
