@@ -16,6 +16,13 @@ Andy Haupt is an interdisciplinary Ph.D. Candidate with the Schwarzman College o
 <br>
 
 <p>
+<img src="/assets/headshots/rui-jie.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+Rui-Jie Yew is an S.M. student studying the legal and human-centered aspects of computation in the Technology and Policy Program. She has worked on research projects involving the design and analysis of regulation for emerging technologies, as well as the operationalization of legal values for technical systems.
+</p>
+
+<br>
+
+<p>
 <img src="/assets/headshots/Annie.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 Annie Snyder is an undergraduate studying Computer Science and Economics at MIT. She's currently exploring equitable design in tech and how to effectively implement these practices in industry, as well as working on engaging undergrads in careers for social good. Annie has previously worked on Internet Policy with the Knesset, Responsible AI at Facebook, and on unions and employment research at MIT. 
 </p>
