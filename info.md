@@ -6,18 +6,15 @@ permalink: /
 
 The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institute-wide discussions about AI technologies and the concerns they motivate. We want to provide a space for people in the MIT community to ask questions, gather feedback on ideas or research, learn from others, and connect with a community engaged with these topics.
 
-### Speakers in the Academic Year 2021/2022
+### Speakers in fall 2022
 
 We are meeting every second week in semesters, with an alternation of community-driven events 
 
-* 10/07/2021: [Stefan Helmriech](https://anthropology.mit.edu/people/faculty/stefan-helmreich) _AI and the Ethics of Accuracy_
-* 11/04/2021: [Manish Raghavan](https://mraghavan.github.io/) _A Fireside Chat on Academia and Policy_
-* 12/03/2021: [Nicole Immorlica](https://immorlica.com/) and [Lily Hu](https://philosophy.yale.edu/people/lily-hu) _Causality and Mechanism Design_
-* 02/10/2022: [Hussein Mozannar](https://husseinmozannar.github.io/) _User Models I: Mental models of users of AI Systems_
-* 02/24/2022: [Micah Carroll](https://micahcarroll.github.io/) _User Models II: Dynamic Preferences for Recommender Systems_
-* 03/31/2022: [Khahlil Louisy](https://carrcenter.hks.harvard.edu/people/khahlil-louisy) _Privacy I: Using COVID Data_
-
-For the latest information, please subscribe to the [MIT AI Ethics Calendar](https://calendar.google.com/calendar/u/0/embed?src=uqgrqa3k3rnkpl33rj37bqu5o4@group.calendar.google.com&ctz=America/New_York).
+* 09/29/2022: [Lily Xu](https://lily-x.github.io/) _AI for Social Good and its relation to AI Ethics_
+* 10/13/2022: [Umang Bhatt](https://umangsbhatt.github.io/) _Algorithmic Transparency in Machine Learning_
+* 10/27/2022: [Johann Gaebler](https://www.jgaeb.com/) _Causal Conceptions of Fairness and Their Consequences_
+* 11/17/2022: [Sarah Cen](https://shcen.github.io) and [Manish Raghavan](https://mraghavan.github.io/) _The Right to be an Exception in Data-Driven Decision-Making_
+* 12/01/2022: [Christo Wilson](https://cbw.sh/) _Algorithmic Audits_
 
 ### Join the discussion
 
