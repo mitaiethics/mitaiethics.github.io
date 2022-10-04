@@ -8,11 +8,12 @@ The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institu
 
 ### Speakers in fall 2022
 
-We are meeting every second week in semesters, with an alternation of community-driven events 
+We are meeting every second week in semesters, with an alternation of community-driven events. * denotes that a speaker that will be presenting virtually.
 
 * 09/29/2022: [Lily Xu](https://lily-x.github.io/) _AI for Social Good and its relation to AI Ethics_
-* 10/13/2022: [Umang Bhatt](https://umangsbhatt.github.io/) _Algorithmic Transparency in Machine Learning_
+* 10/13/2022: [Umang Bhatt](https://umangsbhatt.github.io/)* _Algorithmic Transparency in Machine Learning_
 * 10/27/2022: [Johann Gaebler](https://www.jgaeb.com/) _Causal Conceptions of Fairness and Their Consequences_
+* 11/15/2022: [Lizzie Kumar](https://www.iekumar.com) _Equal credit opportunity in algorithms: Aligning algorithmic fairness research with U.S. fair lending regulation_
 * 11/17/2022: [Sarah Cen](https://shcen.github.io) and [Manish Raghavan](https://mraghavan.github.io/) _The Right to be an Exception in Data-Driven Decision-Making_
 * 12/01/2022: [Christo Wilson](https://cbw.sh/) _Algorithmic Audits_
 
