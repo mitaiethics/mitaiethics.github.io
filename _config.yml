@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MIT AI Ethics
-author: Irene Chen
-description: Discuss AI and ethics twice a month with the MIT community. Notes and readings posted online.
+title: MIT AI Ethics&Policy
+author: Andreas Haupt
+description: Speaker events on AI Ethics & Policy at MIT
 title_img: "https://mitaiethics.github.io/assetss/robot_color.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mitaiethics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -23,7 +23,7 @@ lang: en
 timezone: UTC
 exclude:
   - Gemfile
-  - Gemfile.lock
+  - Gemfile.lockø
   - Rakefile
   - README.md
   - LICENSE.txt
