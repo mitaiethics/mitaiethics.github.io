@@ -6,7 +6,7 @@ author: "Andreas Haupt"
 ---
 [MIT AI Ethics](https://mitaiethics.github.io/) and the [MIT Science Policy Initiative](https://mitspi.squarespace.com/) co-host an event on algorithmic audits and their economic context. Please RSVP so that we can adjust catering and to receive the zoom link for the event.
 
-{% include image.html url="/assets/algorithmic_audits.jpg" description="Algorithmic Audits in Economic Context." %}
+{% include image.html url="/assets/algorithmic_audits.png" description="Algorithmic Audits in Economic Context." %}
 
 Algorithmic audits as a tool for algorithmic accountability receive increasing attention. Several challenges arise: Data is hard to get for legal or technological reasons, and many of the questions are hard-to-formulate. In this event, we hear from several experts working with platform data from their experiences, and highlight how humans interact with algorithms, and how this affects auditing of algorithms in the future.
 
