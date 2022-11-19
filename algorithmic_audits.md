@@ -20,11 +20,10 @@ Algorithmic audits as a tool for algorithmic accountability receive increasing a
 
 ## Schedule
 
-|.            |.              |
 |---|---|
 |3:45-3:55 PM|Opening|
 |4:00-4:30 PM|An acacemic perspective on audits: pymetrics & van Buren vs. United States|
-|4:35-5:05|An entrepreneurial and civil society perspective on audits: Discrimination/Privacy audits & ORCAA|
-|5:20-5:50|Interventions on platforms vs. observations of algorithmic outputs: What does algorithmic oversight need to know?|
-|5:50-6:15|Joint panel and Q&A|
-|6:15|Adjourn|
+|4:35-5:05 PM|An entrepreneurial and civil society perspective on audits: Discrimination/Privacy audits & ORCAA|
+|5:20-5:50 PM|Interventions on platforms vs. observations of algorithmic outputs: What does algorithmic oversight need to know?|
+|5:50-6:15 PM|Joint panel and Q&A|
+|6:15 PM|Adjourn|
