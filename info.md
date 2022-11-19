@@ -14,8 +14,9 @@ We are meeting every second week in semesters, with an alternation of community-
 * 10/13/2022: [Umang Bhatt](https://umangsbhatt.github.io/)* _Algorithmic Transparency in Machine Learning_
 * 10/27/2022: [Johann Gaebler](https://www.jgaeb.com/) _Causal Conceptions of Fairness and Their Consequences_
 * 11/15/2022: [Lizzie Kumar](https://www.iekumar.com) _Equal credit opportunity in algorithms: Aligning algorithmic fairness research with U.S. fair lending regulation_
+* 11/17/2022: [Wastewater Technologies: Technological, Legal, and Philosophical Perspectives](https://www.itgh.org/post/event-wastewater-surveillance-technology-ethical-legal-and-social-perspectives), co-hosted with the [Institute for Technology and Global Health](https://www.itgh.org/)
 * 11/17/2022: [Sarah Cen](https://shcen.github.io) and [Manish Raghavan](https://mraghavan.github.io/) _The Right to be an Exception in Data-Driven Decision-Making_
-* 12/01/2022: [Christo Wilson](https://cbw.sh/) _Algorithmic Audits_
+* 12/01/2022: [Algorithmic Audits in Economic Context](https://mitaiethics.github.io/algorithmic_audits/), co-hosted with the [Science Policy Initiative](https://mitspi.squarespace.com/)
 
 ### Join the discussion
 
