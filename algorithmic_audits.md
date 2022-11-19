@@ -21,7 +21,7 @@ Algorithmic audits as a tool for algorithmic accountability receive increasing a
 ## Schedule
 
 |Time|Event|
-|--|--|
+|---|---|
 |3:45-3:55|Opening|
 |4:00-4:25|An acacemic perspective on audits: pymetrics & van Buren vs. United States|
 |4:30-4:55|An entrepreneurial and civil society perspective on audits: Discrimination/Privacy audits & ORCAA|
