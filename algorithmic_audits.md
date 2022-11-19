@@ -20,6 +20,8 @@ Algorithmic audits as a tool for algorithmic accountability receive increasing a
 
 ## Schedule
 
+
+|Time|Program|
 |---|---|
 |3:45-3:55 PM|Opening|
 |4:00-4:30 PM|An acacemic perspective on audits: pymetrics & van Buren vs. United States|
