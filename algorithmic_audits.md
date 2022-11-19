@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "AI Ethics in Economic Context"
+title: "Algorithmic Audits in Economic Context"
 image: "/assets/algorithmic_audits.jpg"
 author: "Andreas Haupt"
 ---
-[MIT AI Ethics](https://mitaiethics.github.io/) and the [MIT Science Policy Initiative](https://mitspi.squarespace.com/) co-host an event on algorithmic audits and their economic context.
+[MIT AI Ethics&Policy](https://mitaiethics.github.io/) and the [MIT Science Policy Initiative](https://mitspi.squarespace.com/) co-host an event on algorithmic audits and their economic context.
 
 {% include image.html url="/assets/algorithmic_audits.png" description="Algorithmic Audits in Economic Context." %}
 
