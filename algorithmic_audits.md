@@ -16,7 +16,7 @@ Algorithmic audits as a tool for algorithmic accountability receive increasing a
 
 **Where:** MIT Stata Center, Kiva Room (32-G449)
 
-**RSVP:** https://forms.gle/DuYmbrCNpstwsvxX9
+**RSVP:** [https://forms.gle/DuYmbrCNpstwsvxX9](https://forms.gle/DuYmbrCNpstwsvxX9)
 
 ## Schedule
 
