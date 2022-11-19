@@ -18,8 +18,8 @@ Algorithmic audits as a tool for algorithmic accountability receive increasing a
 
 **RSVP:** https://forms.gle/DuYmbrCNpstwsvxX9
 
-
 ## Schedule
+
 |Time|Event|
 |--|--|
 |3:45-3:55|Opening|
