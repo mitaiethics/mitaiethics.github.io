@@ -8,7 +8,7 @@ author: "Andreas Haupt"
 
 {% include image.html url="/assets/algorithmic_audits.png" description="Algorithmic Audits in Economic Context." %}
 
-Algorithmic audits as a tool for algorithmic accountability receive increasing attention by policymakers, academics, and civil society. Such audits face multiple challenges: Data is hard to get, for legal or technological reasons, and many of the questions of interest, be they about non-discrimination or non-self-preferencing, are hard to operationalize. In this three-panel, we hear from several experts studying algorithms in deployment in hiring, highlight how humans interact with algorithms, and how this affects auditing of algorithms in the future.
+Algorithmic audits as a tool for algorithmic accountability are receiving increasing attention by policymakers, academics, and civil society. Such audits face multiple challenges: Data is hard to get, for legal or technological reasons, and many of the questions of interest, be they about non-discrimination or non-self-preferencing, are hard to operationalize. In this event, we hear from several experts studying algorithms in deployment in hiring, highlight how humans interact with algorithms, and how this affects auditing of algorithms in the future.
 
 **Date:** Thursday, 12/01/2022
 
