@@ -22,4 +22,4 @@ We are meeting every second week in semesters, with an alternation of community-
 
 We welcome and encourage all members of the MIT community. Questions of AI ethics span engineering, humanities, business, and the sciences, so the more perspectives and thoughtful participants, the better! 
 
-If you are interested in joining the dicussion, please add yourself to our [mailing list](https://groups.mit.edu/webmoira/list/ai-ethics) for the latest information. If you have specific articles or papers you would like to discuss, please contact the [organizing team](https://mitaiethics.github.io/organizers). 
+If you are interested in joining the dicussion, please add yourself to our [mailing list](https://mailman.mit.edu/mailman/listinfo/ai-ethics) for the latest information. If you have specific articles or papers you would like to discuss, please contact the [organizing team](https://mitaiethics.github.io/organizers). 
