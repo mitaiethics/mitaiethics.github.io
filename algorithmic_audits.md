@@ -27,5 +27,6 @@ Algorithmic audits as a tool for algorithmic accountability are receiving increa
 |4:00-4:30 PM|An acacemic perspective on audits: pymetrics & van Buren vs. United States (Christo Wilson)|
 |4:35-5:05 PM|An entrepreneurial and civil society perspective on audits: Discrimination audits & ORCAA (Cathy O'Neil)|
 |5:20-5:50 PM|Interventions on platforms vs. observations of algorithmic outputs: What does algorithmic oversight need to know? (Alex Mackay & Christo Wilson)|
-|5:50-6:15 PM|Joint panel and Q&A (Alex Mackay, Cathy O'Neil, Christo Wilson)|
+|5:50-5:55|Examples of other audit tooling work (Mehan Jayasuriya)|
+|5:---6:15 PM|Joint Q&A (Alex Mackay, Cathy O'Neil, Christo Wilson)|
 |6:15 PM|Adjourn|
