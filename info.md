@@ -4,6 +4,8 @@ title: "Reading Group"
 permalink: /
 ---
 
+**From Spring 2023, the group is inactive.**
+
 The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institute-wide discussions about AI technologies and the concerns they motivate. We want to provide a space for people in the MIT community to ask questions, gather feedback on ideas or research, learn from others, and connect with a community engaged with these topics.
 
 ### Speakers in fall 2022
