@@ -15,13 +15,6 @@ Andy Haupt is an interdisciplinary Ph.D. Candidate with the Schwarzman College o
 
 <br>
 
-<p>
-<img src="/assets/headshots/rui-jie.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-Rui-Jie Yew is an S.M. student studying the legal and human-centered aspects of computation in the Technology and Policy Program. She has worked on research projects involving the design and analysis of regulation for emerging technologies, as well as the operationalization of legal values for technical systems.
-</p>
-
-<br>
-
 
 
 ### Past Organizers
@@ -41,6 +34,12 @@ Sarah Cen is a PhD student in Computer Science at MIT. She studies machine learn
 </p>
 
 <br>
+
+<p>
+<img src="/assets/headshots/rui-jie.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+Rui-Jie Yew is an S.M. student studying the legal and human-centered aspects of computation in the Technology and Policy Program. She has worked on research projects involving the design and analysis of regulation for emerging technologies, as well as the operationalization of legal values for technical systems.
+</p>
+
 
 <br>
 
