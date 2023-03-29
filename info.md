@@ -4,11 +4,13 @@ title: "Reading Group"
 permalink: /
 ---
 
-**From Spring 2023, the group is inactive.**
-
 The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institute-wide discussions about AI technologies and the concerns they motivate. We want to provide a space for people in the MIT community to ask questions, gather feedback on ideas or research, learn from others, and connect with a community engaged with these topics.
 
-### Speakers in fall 2022
+### Events in spring 2023
+* 04/06/2022: Mixer with the Harvard Kennedy School Emerging Technologies Caucus
+* 04/20/2022: (Tentatively) The AI Act and the Future of AI Regulation
+
+### Events in fall 2022
 
 We are meeting every second week in semesters, with an alternation of community-driven events. * denotes that a speaker that will be presenting virtually.
 
