@@ -12,7 +12,7 @@ The AI Act is about to be passed in the EU, and large language models are showin
 
 ## Events
 
- -  event is Friday, April 21, 2023, in the Star Room, 32-D463 (follow descriptions outside to the event, from 12:30-1:30 (lunch provided). 
+ - A first panel is on Friday, April 21, 2023, in the Star Room, 32-D463 (follow descriptions outside to the event, from 12:30-1:30 (lunch provided). 
 [Gabriele Mazzini](https://op.europa.eu/en/web/who-is-who/person/-/person/EP_DPPE025699) (European Commission) will speak with [Sarthak Agarwal](https://www.linkedin.com/in/sarthaksagrawal/) (Ex-OpenAI) and Boaz Barak (Harvard University, to be confirmed) about "The EU AI Act: A Technical Perspective"
 For a headcount for lunch, please [RSVP](https://forms.gle/ZZTe4ZXUeDsCEBUu5)
  - Another event, co-hosted with Harvard on April 20, will be a presentation about "The EU AI Act: A Legal and Policy Perspective Perspective"
