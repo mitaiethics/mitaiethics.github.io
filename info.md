@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Reading Group"
+title: "AI Ethics & Policy"
 permalink: /
 ---
 
-The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institute-wide discussions about AI technologies and the concerns they motivate. We want to provide a space for people in the MIT community to ask questions, gather feedback on ideas or research, learn from others, and connect with a community engaged with these topics.
+The MIT AI Ethics & Policy discussion group aims to facilitate interdisciplinary, institute-wide discussions about AI technologies and the concerns they motivate. We want to provide a space for people in the MIT community to ask questions, gather feedback on ideas or research, learn from others, and connect with a community engaged with these topics.
 
 ### Events in spring 2023
 * 04/06/2022: Mixer with the Harvard Kennedy School Emerging Technologies Caucus
