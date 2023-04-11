@@ -4,7 +4,7 @@ title: "Conversations about the AI Act"
 image: "/assets/algorithmic_audits.jpg"
 author: "Andreas Haupt"
 ---
-[MIT AI Ethics&Policy](https://mitaiethics.github.io/), the [MIT European Club](https://euroclub.mit.edu/), together with the Harvard Berkman Klein Center Student Leaders in AI Fellowship and the Harvard Kennedy School Emerging Technologies Caucus co-host a series of events with [Gabriele Mazzini](https://op.europa.eu/en/web/who-is-who/person/-/person/EP_DPPE025699)
+[MIT AI Ethics&Policy](https://mitaiethics.github.io/), the [MIT European Club](https://euroclub.mit.edu/), together with the Harvard Berkman Klein Center Student Leaders in AI Fellowship and the Harvard Kennedy School Emerging Technologies Caucus co-host a series of events with [Gabriele Mazzini](https://op.europa.eu/en/web/who-is-who/person/-/person/EP_DPPE025699) from the European Commission.
 
 {% include image.html url="/assets/ai_act.png" description="DALL E depicting a high-risk AI application." %}
 
