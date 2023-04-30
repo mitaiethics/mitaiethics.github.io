@@ -8,7 +8,7 @@ The MIT AI Ethics & Policy discussion group aims to facilitate interdisciplinary
 
 ### Events in spring 2023
 * 04/06/2022: Mixer with the Harvard Kennedy School Emerging Technologies Caucus
-* 04/20/2022: (Tentatively) The AI Act and the Future of AI Regulation
+* 04/20/2022: [A Technical Perspective on the EU AI Act](https://mitaiethics.github.io/)
 
 ### Events in fall 2022
 
