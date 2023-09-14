@@ -9,6 +9,19 @@ If you have questions, ideas, or MIT-affiliated resources to share, please conta
 ### Executive Chairs
 
 <p>
+<img src="/assets/headshots/prajna.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+Prajna is an S.M. student in the Technology and Policy Program and EECS. Her research interests are broadly in the evaluation of algorithmic systems, both from a technical and regulatory perspective, algorithmic fairness and tools which facilitate the development of safer and more trustworthy AI. Prior to MIT, Prajna graduated from NYU Abu Dhabi in 2020 and was awarded the Post-graduate Research Fellow at NYU Abu Dhabi where she investigated bias propagation in recommender systems.
+</p>
+
+<br>
+
+
+
+
+
+### Past Organizers
+
+<p>
 <img src="/assets/headshots/andy.JPG" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 Andy Haupt is an interdisciplinary Ph.D. Candidate with the Schwarzman College of Computing. He uses tools from Microeconomic Theory to understand multi-agent systems, recommendation engines, and automatic pricing tools in deployment and propose ways to mitigate undesirable consequences of seemingly innocuous algorithmic choices.
 </p>
@@ -17,7 +30,6 @@ Andy Haupt is an interdisciplinary Ph.D. Candidate with the Schwarzman College o
 
 
 
-### Past Organizers
 <br>
 <p>
 <img src="/assets/headshots/Annie.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
