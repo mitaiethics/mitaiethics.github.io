@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | append: ' Reading Group' | escape }}</a>
+    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | append: '' | escape }}</a>
 
     <nav class="site-nav">
       {% for link in site.data.navigation.main %}

@@ -9,6 +9,47 @@ If you have questions, ideas, or MIT-affiliated resources to share, please conta
 ### Executive Chairs
 
 <p>
+<img src="/assets/headshots/prajna.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+Prajna is an S.M. student in the Technology and Policy Program and EECS. Her research interests are broadly in the evaluation of algorithmic systems, both from a technical and regulatory perspective, algorithmic fairness and tools which facilitate the development of safer and more trustworthy AI. Prior to MIT, Prajna graduated from NYU Abu Dhabi in 2020 and was awarded the Post-graduate Research Fellow at NYU Abu Dhabi where she investigated bias propagation in recommender systems.
+</p>
+
+<br>
+
+<p>
+<img src="/assets/headshots/fishberg.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+Andrew Fishberg is a PhD student at MIT studying robotics, computer science, and AI. In his research he develops multi-agent mapping algorithms in service of nuclear non-proliferation. Prior to his graduate work, Andrew was employed as Associate Staff member in the Advanced Capabilities and Systems Group at MIT Lincoln Laboratory where he developed swarm robotics technology. Beyond robotics, Andrew has interest in policy, education, and AI / technology ethics.
+</p>
+
+<br>
+
+<p>
+<img src="/assets/headshots/deepika.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+Deepika is a graduate student in MIT’s Technology and Policy Program. Her research focuses on the responsible and equitable design of emerging technologies and public digital goods. Previously, Deepika worked with NITI Aayog and the Ministry of Electronics and IT, Government of India as a project lead with the University of Chicago's International Innovation Corps. Her work has ranged from creating enabling pathways for women's entrepreneurship to data governance, digital transformation, and AI policy. She is an engineer from Anna University and a Young India Fellow from Ashoka University, India.
+  
+</p>
+
+<br>
+
+<p>
+<img src="/assets/headshots/aurora.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+Aurora is a PhD student in IDSS. Her current research focus is on algorithmic fairness and equity in loan approval algorithms, and she is broadly interested in ethical decision making, mechanism design, and dynamic models of structural inequality applied to urban studies and housing. Before MIT, she graduated from Pomona College and worked for a year in economic consulting.
+  
+</p>
+
+<br>
+
+<p>
+<img src="/assets/headshots/Taylor.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+
+
+</p>
+
+<br>
+
+
+### Past Organizers
+
+<p>
 <img src="/assets/headshots/andy.JPG" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 Andy Haupt is an interdisciplinary Ph.D. Candidate with the Schwarzman College of Computing. He uses tools from Microeconomic Theory to understand multi-agent systems, recommendation engines, and automatic pricing tools in deployment and propose ways to mitigate undesirable consequences of seemingly innocuous algorithmic choices.
 </p>
@@ -17,7 +58,6 @@ Andy Haupt is an interdisciplinary Ph.D. Candidate with the Schwarzman College o
 
 
 
-### Past Organizers
 <br>
 <p>
 <img src="/assets/headshots/Annie.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
