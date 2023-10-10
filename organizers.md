@@ -39,7 +39,9 @@ Aurora is a PhD student in IDSS. Her current research focus is on algorithmic fa
 <br>
 
 <p>
-<img src="/assets/headshots/Taylor.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+<img src="/assets/headshots/Taylor.jpeg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;"> 
+Taylor Lynn is an S.M. candidate in technology and policy. Prior to her current degree, she obtained a bachelor of software engineering with a minor in political science from McGill University in Montréal, Canada. Her research interests include the effectiveness of governance surrounding large, generative models, quantifying the societal impact of AI, and more generally the regulatory frameworks that function in the technology space.
+
 
 
 </p>
