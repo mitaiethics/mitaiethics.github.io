@@ -6,10 +6,16 @@ permalink: /
 
 The MIT AI Ethics & Policy group aims to facilitate interdisciplinary, institute-wide discussions about AI technologies and the concerns they motivate. We want to provide a space for people in the MIT community to ask questions, gather feedback on ideas or research, learn from others, and connect with a community engaged with these topics.
 
+## Events in spring 2024
+* 4/23/2024: Career Paths in Responsible Tech Part I: Industry Track
+* 4/25/2024: Career Paths in Responsible Tech Part II: Academia Track
+* 5/2/2024: Career Paths in Responsible Tech Part III: Government/Civil Society Track 
+
 ### Events in fall 2023
 * 10/19/2023: From Research to Scalable Responsible AI with Shivani Poddar
 * 11/2/2023: The EU AI Act: Which Lessons for US AI Regulation (Joint with the AI & Tech Policy Caucus at HKS)
 * 11/16/2023: Explainable Machine Learning in the Era of LLMs with Satyapriya Krishna
+* 12/13/2023: Discussion Session on "Measurement and Fairness"
 
 ### Events in spring 2023
 * 04/06/2022: Mixer with the Harvard Kennedy School Emerging Technologies Caucus
