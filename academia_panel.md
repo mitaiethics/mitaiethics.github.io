@@ -22,5 +22,6 @@ The **Academic Panel** will be held in **45-322** on **April 25th** from **3:30p
 |4:40-5:30 PM|Networking session with speakers and dinner|
 
 ## Academic Panel Speakers
-* Elettra Bietti
-* Leonie Barker Beyrle
+
+### Elettra Bietti
+### Leonie Barker Beyrle
