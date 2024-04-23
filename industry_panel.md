@@ -9,7 +9,7 @@ author: "Aurora Zhang"
 Our Spring 2024 series in Career Paths in Responsible Tech is designed to convene experts in industry, academia, and government to explore potential post-graduation career options in responsible tech and AI ethics. Each event will 
 feature a speaker panel, followed by a small group networking session and dinner. 
 
-The **Industry Panel** will be held in **45-322** on **May 6** from **3:30pm-6:30pm.** Please [register here.](https://forms.gle/qUGBBqNrvtxE6m87A])
+The **Industry Panel** will be held in **45-332** on **May 6** from **3:30pm-6:30pm.** Please [register here.](https://forms.gle/qUGBBqNrvtxE6m87A])
 
 
 
