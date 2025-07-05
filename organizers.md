@@ -53,7 +53,7 @@ Taylor Lynn is an S.M. candidate in technology and policy. Prior to her current 
 
 <p>
 <img src="/assets/headshots/andy.png" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-[Andy Haupt](https://andyhaupt.com) is an interdisciplinary Ph.D. Candidate with the Schwarzman College of Computing. He uses tools from Microeconomic Theory to understand multi-agent systems, recommendation engines, and automatic pricing tools in deployment and propose ways to mitigate undesirable consequences of seemingly innocuous algorithmic choices.
+<a href="https://www.andyhaupt.com/">Andreas Haupt</a> is an interdisciplinary Ph.D. Candidate with the Schwarzman College of Computing. He uses tools from Microeconomic Theory to understand multi-agent systems, recommendation engines, and automatic pricing tools in deployment and propose ways to mitigate undesirable consequences of seemingly innocuous algorithmic choices.
 </p>
 
 <br>
